@@ -11,13 +11,13 @@ Recently I take an interest in the amateur radio sports and I have been planning
 [CRAC]: http://www.crac.org.cn/
 [SW]:   https://en.wikipedia.org/wiki/Short_wave
 
-![My keyer](/assets/keyer.jpg)
+![My keyer](assets/img/keyer.jpg)
 
 _Figure 1. My DJG-K4 keyer purchased from Taobao_
 
 There are resolutions that disassembling an old mouse, soldering the two contacts to the pads of left button, turning the keyer to be a mouse's left button. However I have no old mouses so I just came out an idea: use an Arduino device that can simulate HID devices to turn the keyer into a mouse's left button. In my case I am using a CJMCU Beetle board, which is Arduino Leonardo compatible, only with less GPIOs.
 
-![CJMCU Beetle](/assets/cjmcu-beetle.jpg)
+![CJMCU Beetle](assets/img/cjmcu-beetle.jpg)
 
 _Figure 2. CJMCU Beetle development board, looks like a USB dongle_
 
@@ -50,7 +50,7 @@ _Figure 3. A finely crafted converter should be shown here_
 
 I use Lakey to practice morse code. It seems to be a (semi-)open-source[^1] software written by a Chinese HAM. It has a CW button on the user interface, and I can put the cursor on the CW button, then use my keyer to practice morse code sending. Lakey can also collect audio from the microphone, sample sounds from a frequency range, and turn CW signal into texts. It integrates the Koch training mechanism so that a user can train his morse code copying with a scientific method. HAMs recommend it, and so do I (for now, I am just a "sausage" (pre-HAM)).
 
-![Lakey about](/assets/lakey.png)
+![Lakey about](assets/img/lakey.png)
 
 _Figure 4. Lakey_
 

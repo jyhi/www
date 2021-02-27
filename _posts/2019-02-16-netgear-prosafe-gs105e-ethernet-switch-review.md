@@ -14,59 +14,59 @@ The NETGEAR GS105E is a 5-port gigabit managed ethernet switch, meaning that the
 
 # Appearance
 
-![Front side of the box](/assets/gs105e-review/gs105e-box-front.jpg)
+![Front side of the box](assets/img/gs105e-review/gs105e-box-front.jpg)
 
 _Figure 1. Front side of the box_
 
-![Back side of the box](/assets/gs105e-review/gs105e-box-back.jpg)
+![Back side of the box](assets/img/gs105e-review/gs105e-box-back.jpg)
 
 _Figure 2. Back side of the box_
 
 NETGEAR GS105E does not seem to sell in mainland China[^1], so I have no idea why I can buy one. I guess it is originally sold in Australia, and is later shipped in mainland China with supplementary compliance files in the box.
 
-![Contents in the box](/assets/gs105e-review/gs105e-contents.jpg)
+![Contents in the box](assets/img/gs105e-review/gs105e-contents.jpg)
 
 _Figure 3. Contents of the box. All files are in English except the compliance files_
 
 The weirdest thing is the AC adapter. It's a 12V 1A 2-pin plug, but in form of 3-pin socket, reversed direction. This means if we plug this into a socket, the wire does not go downward, but upward. I guess it is designed to be used on PDUs in data centers, where power sockets are mostly in 3-pin form, so no converter is needed. The 12V 1A output also means that power adapters for most networking widgets are compatible with the switch (instead of 9V, which is common among TP-LINK products).
 
-![Power adapter](/assets/gs105e-review/gs105e-power-adapter.jpg)
+![Power adapter](assets/img/gs105e-review/gs105e-power-adapter.jpg)
 
 _Figure 4. The bundled power adapter_
 
 A "mount kit" also comes with the switch. This is actually a pack of screw for people to hang it onto somewhere.
 
-![Back side of the switch](/assets/gs105e-review/gs105e-back.jpg)
+![Back side of the switch](assets/img/gs105e-review/gs105e-back.jpg)
 
 _Figure 5. The back side of switch, where there are 2 mounting holes_
 
-![Mounting kit](/assets/gs105e-review/gs105e-mount-kit.jpg)
+![Mounting kit](assets/img/gs105e-review/gs105e-mount-kit.jpg)
 
 _Figure 6. Mount kit_
 
 The front side of NETGEAR GS105E is not as pretty as those TP-LINK SOHO switches. Instead, it targets professional use (although it is still suitable for home use[^2]), so the front panel is more practical. Like most big switches used in data centers, there are two blinking LEDs for each port, showing the ethernet handshake status. This is useful if you are interested in it (I am)! :)
 
-![Front side of the switch](/assets/gs105e-review/gs105e-front.jpg)
+![Front side of the switch](assets/img/gs105e-review/gs105e-front.jpg)
 
 _Figure 7. The front side of switch_
 
-![Comparison between GS105E and TL-SG1005D, front](/assets/gs105e-review/gs105e-sg1005d-comparison-front.jpg)
+![Comparison between GS105E and TL-SG1005D, front](assets/img/gs105e-review/gs105e-sg1005d-comparison-front.jpg)
 
 _Figure 8. A NETGEAR GS105E placed on a TP-LINK TL-SG1005D_
 
 There is also a Kensington hole for locking the switch physically.
 
-![Comparison between GS105E and TL-SG1005D, back](/assets/gs105e-review/gs105e-sg1005d-comparison-back.jpg)
+![Comparison between GS105E and TL-SG1005D, back](assets/img/gs105e-review/gs105e-sg1005d-comparison-back.jpg)
 
 _Figure 9. The Kensington lock hole_
 
 Disassembling NETGEAR GS105E is easy. Remove the two screws from the back side, and then the top cover can be uninstalled. Remove the two screws on the PCB, and PCB can be moved out of the metal case. This does not void warranty, since you don't have the "void warranty if removed" stickers!
 
-![Disassembly of GS105E](/assets/gs105e-review/gs105e-disassembly.jpg)
+![Disassembly of GS105E](assets/img/gs105e-review/gs105e-disassembly.jpg)
 
 _Figure 10. Disassembly of GS105E_
 
-![Void warranty sticker on TL-SG1005D](/assets/gs105e-review/sg1005d-void-warranty-sticker.jpg)
+![Void warranty sticker on TL-SG1005D](assets/img/gs105e-review/sg1005d-void-warranty-sticker.jpg)
 
 _Figure 11. The "Void warranty if broken" sticker on my TL-SG1005D_
 

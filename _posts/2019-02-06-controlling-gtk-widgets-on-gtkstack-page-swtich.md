@@ -12,11 +12,11 @@ In some cases, you may have a `GtkStack` without a `GtkStackSwitcher` to easily 
 
 [pb]: https://github.com/DRJ31/COMP3003-Project
 
-![PhoneBook Main Page](/assets/pb-main.png)
+![PhoneBook Main Page](assets/img/pb-main.png)
 
 _Figure 1. Main Page of The PhoneBook Application_
 
-![PhoneBook About Page](/assets/pb-about.png)
+![PhoneBook About Page](assets/img/pb-about.png)
 
 _Figure 2. About Page of The PhoneBook Application_
 
