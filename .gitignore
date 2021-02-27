@@ -13,3 +13,6 @@
 !_config.yml
 !*.md
 !_posts/
+!_includes/
+!_layouts/
+!assets/
