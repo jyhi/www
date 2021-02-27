@@ -1,0 +1,17 @@
+{%- comment -%}
+  This override removes the seo tag and the google-analytics tag. Essencial
+  headers are also defined in this file; custom-head.html is left for real
+  customised ones.
+{%- endcomment -%}
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {%- feed_meta -%}
+
+  {%- include custom-head.html -%}
+
+</head>
