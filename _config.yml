@@ -23,8 +23,9 @@ header_pages:
   - friends.md
 show_excerpts: true
 
-# Minima: social links
+# Minima: theme-wide (namespaced site-wide)
 minima:
+  skin: solarized
   social_links:
     telegram: lmy441900
     github: lmy441900
