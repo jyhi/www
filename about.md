@@ -65,9 +65,3 @@ You can contact me over:
 ## About This Site
 
 This section is under development.
-
-## Motto
-
-> 希望你也可以活成自己想要的样子。
->
-> ——夜岚Arashi
