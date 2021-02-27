@@ -1,0 +1,15 @@
+# This is actually a ".gitfocus" (allow list), by reverting all .gitignore
+# statements.
+
+# Kick everything out first
+*
+
+# Then pull needed files back
+!.gitignore
+!README.md
+!LICENSE*
+!Gemfile
+!Gemfile.lock
+!_config.yml
+!*.md
+!_posts/
