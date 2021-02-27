@@ -29,4 +29,3 @@ Different contents are licensed under different terms:
 
 - Site-related source files (including the Gemfile, HTML files, and CSS / Sass files) are licensed under [the MIT license](https://choosealicense.com/licenses/mit/); see [LICENSE-MIT](LICENSE-MIT).
 - Original articles and web page contents are licensed under [the CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/); see [LICENSE-CC](LICENSE-CC).
-- Personal information is public on the web page as well as in this repository, but they must not be exploited in any way. In other words, it is copyrighted.
