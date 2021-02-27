@@ -8,7 +8,24 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | {{ site.title }}</title>
+
+  {%- assign title = page.title | append: " | " | append: site.title -%}
+  {%- if page.description -%}
+  {%- assign description = page.description | strip_html -%}
+  {%- elsif page.excerpt -%}
+  {%- assign description = page.excerpt | strip_html -%}
+  {%- else -%}
+  {%- assign description = site.description | strip_html -%}
+  {%- endif -%}
+
+  <title>{{ title }}</title>
+  <meta name="title" content="{{ title }}">
+  <meta name="description" content="{{ description }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="dc:license" content="https://creativecommons.org/licenses/by-sa/4.0/">
+
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
 
