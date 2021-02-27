@@ -1,0 +1,38 @@
+# Jekyll: global configuration
+url:
+baseurl:
+timezone: UTC
+permalink: none # /:categories/:title:output_ext
+theme: minima
+
+# Minima: site-wide
+title: Hello from Junde Yhi
+author:
+  name: Junde Yhi
+  email: PGp1bmRlQHloaS5tb2U+
+description: >
+  In pursuit of absolute simplicity.
+header_pages:
+  - about.md
+  - blog.md
+  - projects.md
+  - services.md
+  - friends.md
+show_excerpts: true
+
+# Minima: social links
+minima:
+  social_links:
+    telegram: lmy441900
+    github: lmy441900
+    twitter: lmy441900
+    linkedin: lmy441900
+    mastodon:
+      - username: lmy441900
+        instance: sn.angry.im
+
+# Minima: plug-ins
+# Note: jekyll-feed and jekyll-seo-tags are forcibly enabled by Minima, so
+# overrides are required.
+feed:
+  excerpt_only: true
