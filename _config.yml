@@ -4,6 +4,9 @@ baseurl:
 timezone: UTC
 permalink: none # /:categories/:title:output_ext
 theme: minima
+exclude:
+  - README.md
+  - LICENSE*
 
 # Minima: site-wide
 title: Hello from Junde Yhi
