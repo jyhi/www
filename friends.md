@@ -11,7 +11,7 @@ It's a pitty that nowadays people no longer write high-quality blog posts, but i
 - [FiveYellowMice](https://fiveyellowmice.com).
 - [Megumi Fox](https://blog.megumifox.com), a cute little fox. [(?)](https://blog.megumifox.com/public/about)
 - [Siubeng Fung](https://feng.moe), also a well-known Android, FOSS developer.
-- [Terence Lau](https://terenceliu98.github.io), a statistic and computer science ~~professor~~ expert.
+- [Terence Lau](https://terenceliu98.github.io), a statistics and computer science ~~professor~~ expert.
 - [Rainysummer Luo](https://pages.rainysummer.top), a tech-savvy.
 - [Zhenghao Wu](https://ecwuuuuu.com), a deep learning expert.
 - [Junru Zhong](https://junru.dev), a computer science and transportation enthusiast.
@@ -25,3 +25,5 @@ In August 2020, I got a chance to become a certified member of the [Chaihuo Make
 - [Pansy-Zhifei \[zh-Hans\]](https://panzhifei.xyz)
 
 This site is also included in [TUNA Blogroll](https://github.com/tuna/blogroll#lists), blogs in which are also full of great minds and are worth reading!
+
+The FOAF ontology (not available yet) of this site contains the above information as well.
