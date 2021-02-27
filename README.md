@@ -12,7 +12,7 @@ This repository contains the source files of [www.yhi.moe](https://www.yhi.moe/)
 gem install bundler
 
 # Bundler installs dependencies according to Gemfile(.lock)
-bundler install jekyll
+bundler install
 
 # Generate the site to ./_site/
 # Serve it directly with `bundler exec jekyll serve`
