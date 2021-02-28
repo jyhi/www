@@ -12,13 +12,13 @@ The following are actually my [projects][proj] as well, but they are designed to
 
 PURL stands for [Persistent Uniform Resource Locator][purl-wp].
 
-- Visiting (`GET`) the PURL returns a `HTTP 307 Temporary Redirect` to the registered URL; i.e. a simple redirection.
+- Visiting the PURL returns a `HTTP 307 Temporary Redirect` to the registered URL; i.e. a simple redirection.
 - Visiting a non-existent resource returns `HTTP 404 Not Found`.
 
 Usage:
 
-- `http://purl.yhi.moe/<name>`
-- `http://yhi.moe/<name>`
+- `GET http://purl.yhi.moe/<name>`
+- `GET http://yhi.moe/<name>`
 
 ... where:
 
