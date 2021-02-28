@@ -72,8 +72,8 @@ This site is proudly built:
 
 No analytical script (e.g. Google Analytics) is deployed on the site to track users. However, the following service providers **do** analyse visitors:
 
-- **Google**: [Google Search Console][gsc] is set up on the domain name, so Google search results related to this site are analysed, and summaries about e.g. keywords used by the user are given.
-- **Cloudflare**: DNS and most network traffic on the domain go through Cloudflare, so the network traffic are analysed, and summaries about visitor locations, type of data served, etc. are given.
+- **Google**: [Google Search Console][gsc] is set up on the domain name, so Google search results related to this site are analysed; summaries about e.g. keywords used by the user are given.
+- **Cloudflare**: DNS and most network traffic on the domain go through Cloudflare, so the network traffic is analysed; summaries about visitor locations, type of data served, etc. are given.
 
 Alternative linked data formats (e.g. RDF/XML, Turtle) are not supported at present.
 
