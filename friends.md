@@ -3,7 +3,7 @@ layout: page
 title: Friends
 ---
 
-It's a pitty that nowadays people no longer write high-quality blog posts, but instead seek for acceptance by writing fragmented micro-blogs and WeChat moments. Notwithstanding, many of my friends still keep producing great ideas and write excellent blog posts. Here are some of them:
+It's a pity that nowadays people no longer write high-quality blog posts, but instead seek for acceptance by writing fragmented micro-blogs and WeChat moments. Notwithstanding, many of my friends still keep producing great ideas and write excellent blog posts. Here are some of them:
 
 - [Haonan Bai](https://library.hoshimi.club), a schoolmate of mine.
 - [Mingcong Bai](https://mingcongbai.wtf), maintainer of [AOSC OS](https://aosc.io), history scholar, great thinker.
