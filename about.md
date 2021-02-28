@@ -63,11 +63,23 @@ My old key, ~~`42F6 3E9D 68B9 884B 414D  4185 1029 4E7C 4008 E282`~~, has been r
 
 Blog posts are in English or (Simplified) Chinese. Unless otherwise specified, all contents on the site are licensed under the [CC-BY-SA 4.0][cc-by-sa-4] license.
 
-_This site is proudly built without JavaScript_. As a consequence, no analytical script (e.g. Google Analytics) is used to track users. However, a [Google Search Console][gsc] is set up on the domain name, so Google search results related to this site are indeed analysed. To further enhance personal privacy, using [DuckDuckGo][ddg] is recommended.
+This site is proudly built:
 
-This site is [RDFa][rdfa]-enabled. Alternative linked data formats (e.g. RDF/XML, Turtle) are not supported at present.
+- _without JavaScript_
+- with [Jekyll][jekyll]
+  - and theme [Minima][minima-rdfa] v2.99 ([RDFa][rdfa] enabled fork)
+- by and hosted on [Cloudflare Pages][cf-pages]
+
+No analytical script (e.g. Google Analytics) is deployed on the site to track users. However, the following service providers **do** analyse visitors:
+
+- **Google**: [Google Search Console][gsc] is set up on the domain name, so Google search results related to this site are analysed, and summaries about e.g. keywords used by the user are given.
+- **Cloudflare**: DNS and most network traffic on the domain go through Cloudflare, so the network traffic are analysed, and summaries about visitor locations, type of data served, etc. are given.
+
+Alternative linked data formats (e.g. RDF/XML, Turtle) are not supported at present.
 
 [cc-by-sa-4]: https://creativecommons.org/licenses/by-sa/4.0/
-[gsc]: https://search.google.com/search-console/about
-[ddg]: https://duckduckgo.com/
+[jekyll]: https://jekyllrb.com/
+[minima-rdfa]: https://github.com/lmy441900/minima/tree/master-rdfa-lite
 [rdfa]: http://rdfa.info/
+[cf-pages]: https://pages.cloudflare.com/
+[gsc]: https://search.google.com/search-console/about
