@@ -1,6 +1,6 @@
 # Jekyll: global configuration
-url:
-baseurl:
+url: https://www.yhi.moe
+baseurl: /
 timezone: UTC
 permalink: none # /:categories/:title:output_ext
 theme: minima
