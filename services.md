@@ -3,7 +3,7 @@ layout: page
 title: Services
 ---
 
-The following are actually my [projects][proj] as well, but they are designed to be flexible enough to provide services to the public. Note that these are not generic public services; as parts of my personal experiments, they are subject to change, and have no [SLA][sla] guarantees. No abuse.
+Notice: the following are not generic public services; they are just my [projects][proj] that can be (to some extent) accessed on the Internet. As parts of my personal experiments, they are subject to change, and have no [SLA][sla] guarantees. No abuse.
 
 [proj]: projects.html
 [sla]: https://en.wikipedia.org/wiki/Service-level_agreement
