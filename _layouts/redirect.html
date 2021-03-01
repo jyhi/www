@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive">
+  <meta http-equiv="refresh" content="3;url={{ page.redirect.to }}">
+  <title>This Page Has Been Moved | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <body>
+    {%- include header.html -%}
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <h1>This Page Has Been Moved</h1>
+        <p>The page will automatically refresh in 3 seconds and jump to the target page. <a href="{{ page.redirect.to }}">Click here</a> if you are not redirected.</p>
+      </div>
+    </main>
+    {%- include footer.html -%}
+  </body>
+</html>
