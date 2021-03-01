@@ -8,6 +8,13 @@ exclude:
   - README.md
   - LICENSE*
 
+# Jekyll: plug-ins
+# Note: jekyll-feed and jekyll-seo-tags are forcibly enabled by Minima.
+plugins:
+  - jekyll-redirect-from
+feed:
+  excerpt_only: true
+
 # Minima: site-wide
 title: Hello from Junde Yhi
 author:
@@ -34,9 +41,3 @@ minima:
     mastodon:
       - username: lmy441900
         instance: sn.angry.im
-
-# Minima: plug-ins
-# Note: jekyll-feed and jekyll-seo-tags are forcibly enabled by Minima, so
-# overrides are required.
-feed:
-  excerpt_only: true
