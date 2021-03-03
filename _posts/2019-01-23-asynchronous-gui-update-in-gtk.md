@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Asynchronous GUI Update in GTK
+modified_date: 2021-03-03
 category:
   - blog
   - en
@@ -39,7 +40,7 @@ As GTK+ is not thread safe, we cannot update UI elements on a thread other than 
 To achieve this, use:
 
 ```c
-gdk_threads_add_idle_full(ui_update_func, user_data);
+gdk_threads_add_idle(ui_update_func, user_data);
 ```
 
 ... to spawn the UI updating thread, where
@@ -47,7 +48,9 @@ gdk_threads_add_idle_full(ui_update_func, user_data);
 - `ui_update_func` is the function name of our UI update code
 - `user_data` is the extra argument to be passed to `ui_update_func`
 
-In this way, `ui_update_func` will be executed "whenever there are no higher priority events pending"[^2] (e.g. no signals are emitting), so in the UI update code we can (busy-)wait for the task thread to finish, receive the result, and display it on the UI.
+In this way, `ui_update_func` will be executed "whenever there are no higher priority events pending"[^2] (e.g. no signals are emitting), so in the UI update code we can (busy-)wait for the task thread to finish, receive the result, and display it on the UI. Note that `ui_update_func` must not block (e.g. if the GLib [Asynchronous Queue][async-queue] is used, use `g_async_queue_try_pop` instead of `g_async_queue_pop`), otherwise the whole application will freeze, since the [event loop][evloop] is single-threaded.
+
+[evloop]: https://developer.gnome.org/glib/stable/glib-The-Main-Event-Loop.html
 
 Another similar way to achieve asynchronous UI update is:
 
@@ -87,6 +90,12 @@ Another issue here is that we need a mechanism for the two threads to communicat
 The [Asynchronous Queue][async-queue] functionality provided by GLib seems to be the best solution. With asynchronous queue created and passed to the two threads described above, the task thread can pass result or error through the queue, and the UI thread can check the queue from time to time in order to display the result or error to user.
 
 [async-queue]: https://developer.gnome.org/glib/stable/glib-Asynchronous-Queues.html
+
+## Changelog
+
+- {{ page.modified_date }}:
+  - `gdk_threads_add_idle_full` should be `gdk_threads_add_idle` in the first code block.
+  - add a notice of not blocking `ui_update_func`.
 
 ## Notes
 
