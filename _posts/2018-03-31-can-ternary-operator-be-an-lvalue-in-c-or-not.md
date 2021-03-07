@@ -4,6 +4,8 @@ title: "Can ?: Be an Lvalue in C or Not?"
 category:
   - blog
   - en
+redirect_from:
+  - en/2018/03/31/can-ternary-operators-be-an-lvalue-in-c-or-not.html
 ---
 
 **TL;DR: `?:` cannot be an lvalue in C, but it _can_ be an lvalue in C++.**
