@@ -73,7 +73,8 @@ This site is proudly built:
 No analytical script (e.g. Google Analytics) is deployed on the site to track users. However, the following service providers **do** analyse visitors:
 
 - **Google**: [Google Search Console][gsc] is set up on the domain name, so Google search results related to this site are analysed; summaries about e.g. keywords used by the user are given.
-- **Cloudflare**: DNS and most network traffic on the domain go through Cloudflare, so the network traffic is analysed; summaries about visitor locations, type of data served, etc. are given.
+- **Cloudflare**: DNS and most network traffic on the domain go through Cloudflare, so the network traffic is analysed; summaries about e.g. visitor locations are given.
+  - Cloudflare also inserts [cookies][cookies] to detecte bots (specifically, [`__cfduid`][cfduid]). [This will be removed on 10 May 2021][cf-deprecate-cfduid].
 
 Alternative linked data formats (e.g. RDF/XML, Turtle) are not supported at present.
 
@@ -83,3 +84,6 @@ Alternative linked data formats (e.g. RDF/XML, Turtle) are not supported at pres
 [rdfa]: http://rdfa.info/
 [cf-pages]: https://pages.cloudflare.com/
 [gsc]: https://search.google.com/search-console/about
+[cookies]: https://en.wikipedia.org/wiki/HTTP_cookie
+[cfduid]: https://support.cloudflare.com/hc/en-us/articles/200170156-Understanding-the-Cloudflare-Cookies#12345682
+[cf-deprecate-cfduid]: https://blog.cloudflare.com/deprecating-cfduid-cookie/
