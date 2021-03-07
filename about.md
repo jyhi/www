@@ -39,7 +39,6 @@ Fingerprint: **`E6C7 4782 A1FB EE74 1D09  885F D274 286F 672C 800A`**.
 
 Fetch the public key from:
 
-- ca.yhi.moe (not available yet)
 - [keys.openpgp.org][koo]
 - ~~[SKS keyservers][sks]~~ ([not recommended][sks-death])
 
