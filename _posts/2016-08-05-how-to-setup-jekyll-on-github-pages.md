@@ -8,7 +8,7 @@ category:
 
 I've spent about 6 hours to set up this simple blog.
 
-![OMG...](assets/img/dying.png)
+![OMG...]({% link /assets/img/dying.png %})
 
 (Picture from Telegram sticker "ARU".)
 
@@ -18,7 +18,7 @@ So what's the problem? If you're also interested in creating your blog on Github
 
 And yes, **Github Pages uses a different Jekyll engine**. (I mean, the beavior is a bit different.) If you follow those guidelines, Jekyll will works very well on your own machine, but just breaks on Github Pages:
 
-![Breaks on Github Pages. These are emails sent by Github.](assets/img/github-page-break-email.png)
+![Breaks on Github Pages. These are emails sent by Github.]({% link /assets/img/github-page-break-email.png %})
 
 **No you won't see them in the history of my website repository since I've deleted it.** So what's the point to create a Jekyll blog on Github Pages?
 

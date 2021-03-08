@@ -31,7 +31,9 @@ Overall, this time I tried to make it usable on more legacy platforms, so there 
 
 ## Partitioning
 
-![A picture showing partitions on my USB drive.](assets/img/usb-drive-partitions.png)
+{% comment %}
+![A picture showing partitions on my USB drive.]({% link /assets/img/usb-drive-partitions.png %})
+{% endcomment %}
 
 MBR is used as the partition table.
 
@@ -49,7 +51,9 @@ I formatted my data partition with exFAT (MBR Partition Type `07h`), which is a 
 
 ## Boot Loader
 
-![A picture showing GNU GRUB 2 boot sequences.](assets/img/grub2-boot-bios-uefi.png)
+{% comment %}
+![A picture showing GNU GRUB 2 boot sequences.]({% link /assets/img/grub2-boot-bios-uefi.png %})
+{% endcomment %}
 
 GNU GRUB 2 ("GRUB") is used as the boot loader. Two copies of GRUB are installed to provide support for both PC BIOS (`i386-pc`) and 64-bit x86 UEFI (`x86_64-efi`). When booting from PC BIOS, the GRUB bootstrap code in MBR boot sector is executed, then the stage 1.5 (`core.img`) is found and executed, then the `normal.mod` is found and loaded, then the configuration file is read. When booting from UEFI, the firmware loads `\EFI\BOOT\BOOTX64.EFI`, which _is_ GRUB EFI image, and then the normal flow continues. Both modes share one `/grub/grub.cfg`.
 
