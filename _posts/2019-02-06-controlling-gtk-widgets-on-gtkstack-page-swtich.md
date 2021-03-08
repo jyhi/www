@@ -74,7 +74,7 @@ void stack_switch_cb(GtkBuilder *builder)
 }
 ```
 
-(See [my last blog post](2019-01-22-control-all-widgets-in-gtk-callbacks-with-gtkbuilder.md) for my reasons to do the above)
+(See [my last blog post]({% post_url 2019-01-22-controlling-all-widgets-in-gtk-callbacks-with-gtkbuilder %}) for my reasons to do the above)
 
 In this way, when a stack page is going to be shown, the function is called and actions are performed with the switch of `GtkStack`. Either the page is switched with `GtkStackSwitcher`, by user actions, or by other means, these actions are guaranteed to be performed, and thus widgets can be associated with the show of corresponding stack pages!
 
