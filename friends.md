@@ -3,7 +3,8 @@ layout: page
 title: Friends
 ---
 
-{:knows: about="http://purl.yhi.moe/about/me" typeof="foaf:Person" property="foaf:knows"}
+{:knows: property="schema:knows"}
+<div resource="http://purl.yhi.moe/about/me" typeof="schema:Person" markdown="1">
 
 It's a pity that nowadays people no longer write high-quality blog posts, but instead seek for acceptance by writing fragmented micro-blogs and WeChat moments. Notwithstanding, many of my friends still keep producing great ideas and write excellent blog posts. Here are some of them:
 
@@ -28,7 +29,9 @@ In August 2020, I got a chance to become a certified member of the [Chaihuo Make
 
 This site is also included in [TUNA Blogroll](https://github.com/tuna/blogroll#lists), blogs in which are also full of great minds and are worth reading!
 
-You may [try extracting the above data][tryxdata] in [HTML+RDFa 1.1][htmlrdfa11]. The complete FOAF ontology is not completed yet.
+You may [try extracting the above data][tryxdata] in [RDFa Lite 1.1][rdfalite11]. The complete FOAF ontology is not completed yet.
 
-[htmlrdfa11]: https://www.w3.org/TR/2015/REC-html-rdfa-20150317/
+</div>
+
+[rdfalite11]: https://www.w3.org/TR/2015/REC-rdfa-lite-20150317/
 [tryxdata]: https://www.w3.org/2012/pyRdfa/
