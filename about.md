@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## About Me
+## About Me {#me}
 
 I am a...
 
@@ -58,7 +58,7 @@ My old key, ~~`42F6 3E9D 68B9 884B 414D  4185 1029 4E7C 4008 E282`~~, has been r
 [sks]: https://sks-keyservers.net/
 [sks-death]: https://code.firstlook.media/the-death-of-sks-pgp-keyservers-and-how-first-look-media-is-handling-it
 
-## About This Site
+## About This Site {#this-site}
 
 Blog posts are in English or (Simplified) Chinese. Unless otherwise specified, all contents on the site are licensed under the [CC-BY-SA 4.0][cc-by-sa-4] license.
 
