@@ -16,6 +16,6 @@ Under the above categories, language tags are appended:
 
 There is currently no category-specific list.
 
-I understand that such transition, compared with the old link scheme in my old blog site, brings a lot of [rotted links][link-rot]. If a link rot is found, please either notify me or the one linking to my site.
+I'm aware that lots of [rotted links][link-rot] present because of the change of site structure. If a link rot is found, please either notify me or the one linking to my site.
 
 [link-rot]: https://en.wikipedia.org/wiki/Link_rot
