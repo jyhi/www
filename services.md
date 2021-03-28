@@ -5,6 +5,9 @@ title: Services
 
 Notice: the following are not generic public services; they are just my [projects][proj] that can be (to some extent) accessed on the Internet. As parts of my personal experiments, they are subject to change, and have no [SLA][sla] guarantees. No abuse.
 
+- Table of Contents
+{:toc}
+
 [proj]: projects.html
 [sla]: https://en.wikipedia.org/wiki/Service-level_agreement
 
