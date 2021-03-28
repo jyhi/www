@@ -22,7 +22,7 @@ Alternatively, use the header bar to navigate around.
 - [Friends on the Web][friends]
 
 [about]: about.html
-[about-me]: about.html#about-me
+[about-me]: about.html#me
 [blog]: blog/index.html
 [projects]: projects.html
 [services]: services.html
