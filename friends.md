@@ -11,11 +11,13 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [Haonan Bai](https://library.hoshimi.club){:knows}, a schoolmate of mine.
 - [Mingcong Bai](https://mingcongbai.wtf){:knows}, maintainer of [AOSC OS](https://aosc.io), history scholar, great thinker.
 - [Peter Cai](https://en.typeblog.net){:knows}, a well-known Android, FOSS developer.
+- [Renjie Deng](https://www.drjchn.com){:knows}.
 - [FiveYellowMice](https://fiveyellowmice.com){:knows}.
 - [Megumi Fox](https://blog.megumifox.com){:knows}, a cute little fox. [(?)](https://blog.megumifox.com/public/about)
 - [Siubeng Fung](https://feng.moe){:knows}, also a well-known Android, FOSS developer.
 - [Terence Lau](https://terenceliu98.github.io){:knows}, a statistics and computer science ~~professor~~ expert.
 - [Rainysummer Luo](https://pages.rainysummer.top){:knows}, a tech-savvy.
+- [Zhanming Tian](https://hixiaotian.com){:knows}.
 - [Zhenghao Wu](https://ecwuuuuu.com){:knows}, a deep learning expert.
 - [Junru Zhong](https://junru.dev){:knows}, a computer science and transportation enthusiast.
 
