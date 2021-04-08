@@ -67,6 +67,14 @@ While people can read the documents, machines can too. If a website relies on Ja
 
 ### PeaZip Simplified Chinese Localization
 
+- Repository: <https://github.com/lmy441900/PeaZip-l10n-zh-Hans>
+
+This project translates the language files in PeaZip to Simplified Chinese (zh-Hans). A few collaborators have contributed to this project too, so this is not maintained solely by me.
+
+Unfortunately, the author and maintainer of PeaZip, [Giorgio Tani][gtani], doesn't want to host the source code on Github. As a result, collaboration is done by sending an email to them each time the translation is updated. Every tag I add in the repository is the version I've sent to them.
+
+[gtani]: https://github.com/peazip
+
 ## Under Maintenance
 
 These are projects that have "finished" and have entered a "stable" state. The progress of these projects may look inactive, but I'm still accepting new issues (bug reports) and pull requests.
@@ -82,6 +90,18 @@ This is the [Vala][vala] API (`.vapi`) definition for the use of [LibYAML][libya
 [libyaml]: https://pyyaml.org/wiki/LibYAML
 
 ### ForEveryone.net Simplified Chinese Subtitles {#foreveryone-net}
+
+- Repository: <https://github.com/lmy441900/ForEveryone.net-sub-zh-Hans>
+
+This project translates the subtitles of the documentary to Simplified Chinese (zh-Hans).
+
+The former half of the subtitle file was translated by me, and the latter half was translated by [gloomy-ghost][]. The finished subtitles are then rendered into the video (hard-coded into the video). The video has been uploaded to [Bilibili][foreveryone-net-bili].
+
+There're possible improvements though. The timeline was taken from another user from Bilibili who constantly uploads documentary films, and although we've got approval on its free use, it's better to use the W3C version used in their [upload on YouTube][foreveryone-net-ytb-sub]. More tweaks on font sizes and effects can be added.
+
+[gloomy-ghost]: https://github.com/gloomy-ghost
+[foreveryone-net-bili]: https://www.bilibili.com/video/BV1qx411o7qs
+[foreveryone-net-ytb-sub]: https://youtu.be/4pjG1UfgWD8
 
 ## Planned (Stalled) {#planned}
 
@@ -104,6 +124,10 @@ These are projects that are abandoned. I'm not planning to improve them, but if 
 ## Coursework
 
 Projects fulfilling requirements of coursework assignments are never meant to be functionally complete, but they did cost me a great amount of time. When I do coursework projects, I usually try practicing my novel ideas, and some of them might be worth talking.
+
+### picoMIPS Implementation
+
+### BICS Results in Linked Data
 
 ### AAA
 
