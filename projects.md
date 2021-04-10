@@ -5,7 +5,7 @@ title: Projects
 
 This is a page showcasing projects I have worked on, is working on, or plan to work on. I give brief introductions to, technologies I use in, concepts involved in, and personal thoughts on the projects. I usually think too much when creating projects, and most of the time people just don't understand what I think. This time, I try to write them down.
 
-**Note:** I'm still working on this page, so information is not complete yet.
+**Note:** I'm still working on this page, so the information is not complete yet.
 
 - Table of Contents
 {:toc}
@@ -143,14 +143,50 @@ This is a boring ad-hoc project. The only "novel" concept involved is [content n
 
 ## Coursework
 
-Projects fulfilling requirements of coursework assignments are never meant to be functionally complete, but they did cost me a great amount of time. When I do coursework projects, I usually try practicing my novel ideas, and some of them might be worth talking.
+Projects fulfilling requirements of coursework assignments are never meant to be functionally complete, but they did cost me a great amount of time. When I do coursework projects, I usually try practicing my novel ideas, and some of them might be worth talking about.
 
-### picoMIPS Implementation
-
-### BICS Results in Linked Data
+Not all coursework projects are listed here--only the ones that are _worth talking about_. Many of my other coursework projects only fulfill the basic requirements, even they cost me a large amount of time. Nevertheless, being buried may be their fate.
 
 ### AAA
 
+- For: COMP4093 Internet and the World Wide Web
+- Repository: <https://github.com/lmy441900/aaa>
+
+"Aaa" (pronounced ei-ei-ei) is an end-to-end encrypted peer-to-peer instant messaging software, _proudly powered by Curve25519_. [(?)][25519-note]
+
+The idea of the name comes from my group-mate [Yvonne][yvonne]. It doesn't have any meaning at all. Despite this fun (?) fact, the project is somewhat sad: it did not work.
+
+- The [Vala][vala] programming language is experimented to write GTK-related codes. However, other modules, e.g. the cryptographic functions based on [libsodium][libsodium], are still written in C. To make the APIs written in the two languages callable to each others', Vala API binding is experimented. The insufficient documentation of Vala have caused difficulty to the process.
+  - Later, when the program run, because of ~~our~~ my poor management of memory, garbage collection kept destroying things, and ~~we~~ I didn't know why.
+- Yvonne couldn't help much. I feel sorry for using too many new technologies that she hasn't even heard about (and I wasn't confident with).
+
+[25519-note]: https://cr.yp.to/ecdh.html
+[yvonne]: https://github.com/YvonneTech
+[vala]: https://wiki.gnome.org/Projects/Vala
+[libsodium]: https://doc.libsodium.org/
+
 ### Teapot
 
+- For: COMP4093 Internet and the World Wide Web
+- Repository: <https://github.com/lmy441900/teapot>
+
+Teapot is a simple HTTP server implemented in C. The idea of the name comes from `HTTP 418 I'm a Teapot`: we [implemented it][teapot-impl], but in a sad way.
+
+The coursework requires socket programming, so HTTP processing is done manually. This project tries to make full use of [GLib][glib], utilising all kinds of facilities it provides.
+
+I must say that the experience of writing C with GLib is way better than without GLib.
+
+[teapot-impl]: https://github.com/lmy441900/teapot/blob/master/src/http.c#L44
+[glib]: https://wiki.gnome.org/Projects/GLib
+
 ### Phone Book
+
+- For: COMP3003 Data Communications and Networking
+- Repository: <https://github.com/DRJ31/COMP3003-Project>
+
+This is an implementation of both client and server of an online yellow page service, allowing a user to query contact information of someone using a dedicated graphical client written in GTK.
+
+The coursework requires socket programming, so we derived our own protocol based on HTTP and JSON. HTTP parsing is done manually, while JSON parsing is done using the library [parson][parson]. The GUI is constructed with [Glade][glade]. Keeping both the client and the server in a single executable (the server is invoked by appending a `server` argument) is experimented.
+
+[parson]: https://github.com/kgabis/parson
+[glade]: https://glade.gnome.org/
