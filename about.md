@@ -7,33 +7,38 @@ title: About
 
 I am a...
 
-- (Ongoing) Master of Science in Internet of Things (MSc IoT) at [University of Southampton][uos].
-- Bachelor of Science in Computer Science (and Technology) (BSc CS) at [Beijing Normal University - Hong Kong Baptist University United International College (BNU-HKBU UIC)][uic].
-- (Not-very-active) Developer at [Anthon Open Source Community (AOSC)][aosc].
-- HAM (amateur radio operator), level A (foundation), callsign **BI7PXN**.
+- ~~MSc~~ Postgraduate student in Internet of Things at [University of Southampton][uos].
+- BSc (Hons) in Computer Science and Technology at [BNU--HKBU United International College][uic].
+- Contributor in [Anthon Open Source Community][aosc].
+- HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
 
 See also my:
 
 - CV (coming soon)
 - FOAF (coming soon) [(?)][foaf]
 
+*[MSc]: Master of Science
+*[BSc (Hons)]: Bachelor of Science (Honours)
+*[BNU]: Beijing Normal University
+*[HKBU]: Hong Kong Baptist University
+*[BI7PXN]: Bravo India Seven Papa X-ray November
 [foaf]: https://en.wikipedia.org/wiki/FOAF_(ontology)
+[uos]:      https://www.southampton.ac.uk/
+[uic]:      https://uic.edu.cn/
 
 ### Contact
 
 Refer to the site footer for my existence on other media. Alternatively:
 
 - Email:
-  - **junde at yhi punkt moe**: personal
+  - **junde at yhi Punkt moe**: personal
   - **lmy441900 at** ...
     - **live dot com**: personal alternative
     - **aosc dot io**: work, [AOSC][aosc], and development related
 
-[uic]:      https://uic.edu.hk
-[uos]:      https://www.southampton.ac.uk/
-[aosc]:     https://aosc.io
+[aosc]:     https://aosc.io/
 
-### PGP / GPG
+### PGP
 
 Fingerprint: **`E6C7 4782 A1FB EE74 1D09  885F D274 286F 672C 800A`**.
 
