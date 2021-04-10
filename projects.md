@@ -119,7 +119,27 @@ These are projects that are abandoned. I'm not planning to improve them, but if 
 
 ### MDBFS
 
+- Repository: <https://github.com/lmy441900/mdbfs>
+
+"MDBFS" stands for "Mapping DataBases into a File System". The project implements a [file system in userspace (FUSE)][fuse] that takes a database container or a database management system connector, and mounts it as a file system.
+
+This is the final year project for my bachelor's degree. It was started with an ambitious goal of making it an actively maintained open source software, but after knowing some alternatives e.g. [Windows Projected File System (ProjFS)][projfs] and feeling uncertain about my future spare time, I decided to stop maintaining it right after my thesis defense. If you're interested in it, you may request the thesis by contacting me.
+
+[fuse]: https://en.wikipedia.org/wiki/Filesystem_in_Userspace
+[projfs]: https://docs.microsoft.com/en-us/windows/win32/projfs/projected-file-system
+
 ### URM
+
+- Repository: <https://github.com/lmy441900/urm>
+
+"URM" stands for "Unified Repository Manager". "Repository" here means a _real_ repository; it was a reinvented wheel for simple inventory management. Originally designed for asset management in small laboratories, URM provides a light-weight and straightforward way to manage things without the burden put by enterprise-class inventory management systems.
+
+This is a boring ad-hoc project. The only "novel" concept involved is [content negotiation][ct-neg] (it's not novel at all) on a resource.
+
+[Rocket][rocket-rs] is hard to use when it comes to customising the data flow.
+
+[ct-neg]: https://en.wikipedia.org/wiki/Content_negotiation
+[rocket-rs]: https://rocket.rs/
 
 ## Coursework
 
