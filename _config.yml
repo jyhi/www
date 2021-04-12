@@ -4,6 +4,8 @@ baseurl:
 timezone: UTC
 permalink: none # /:categories/:title:output_ext
 theme: minima
+include:
+  - _redirects
 exclude:
   - README.md
   - LICENSE*
