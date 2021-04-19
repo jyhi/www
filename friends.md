@@ -17,6 +17,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [Siubeng Fung](https://feng.moe){:knows}, also a well-known Android, FOSS developer.
 - [Terence Lau](https://terenceliu98.github.io){:knows}, a statistics and computer science ~~professor~~ expert.
 - [Rainysummer Luo](https://pages.rainysummer.top){:knows}, a tech-savvy.
+- [Peter Pan Chi-fei](https://panzhifei.fun){:knows}, a genuine maker.
 - [Zhanming Tian](https://hixiaotian.com){:knows}.
 - [Zhenghao Wu](https://ecwuuuuu.com){:knows}, a deep learning expert.
 - [Junru Zhong](https://junru.dev){:knows}, a computer science and transportation enthusiast.
@@ -27,7 +28,6 @@ In August 2020, I got a chance to become a certified member of the [Chaihuo Make
 - [Meng Cheng (dreamc) \[zh-Hans\]](https://www.dreamcstudio.cn){:knows}
 - [IT1995 \[zh-Hans\]](http://www.it1995.cn){:knows}
 - [Bo Liu](https://blogs.oopswow.com){:knows}
-- [Pansy-Zhifei \[zh-Hans\]](https://panzhifei.xyz){:knows}
 
 This site is also included in [TUNA Blogroll](https://github.com/tuna/blogroll#lists), blogs in which are also full of great minds and are worth reading!
 
