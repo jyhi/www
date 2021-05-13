@@ -20,6 +20,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [Peter Pan Chi-fei](https://panzhifei.fun){:knows}, a genuine maker.
 - [Zhanming Tian](https://hixiaotian.com){:knows}.
 - [Zhenghao Wu](https://ecwuuuuu.com){:knows}, a deep learning expert.
+- [Shunyu (David) Yao](https://davidyao1518.github.io){:knows}, our respected fellow student in UIC.
 - [Junru Zhong](https://junru.dev){:knows}, a computer science and transportation enthusiast.
 
 In August 2020, I got a chance to become a certified member of the [Chaihuo Maker Space](https://www.chaihuo.org/), where passionate makers gather. I don't think I'm an _authentic_ maker; I'm interested in playing with hardware, but I didn't invest a lot of time in it. Some _true_ makers I came across in the certified members' chat group also set up their websites to show their results and products. Here are some of them:
