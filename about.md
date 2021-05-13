@@ -12,11 +12,6 @@ I am a...
 - Contributor in [Anthon Open Source Community][aosc].
 - HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
 
-See also my:
-
-- CV (coming soon)
-- FOAF (coming soon) [(?)][foaf]
-
 *[MSc]: Master of Science
 *[BSc (Hons)]: Bachelor of Science (Honours)
 *[BNU]: Beijing Normal University
