@@ -71,8 +71,6 @@ No analytical script (e.g. Google Analytics) is deployed on the site to track us
 - **Google**: [Google Search Console][gsc] is set up on the domain name, so Google search results related to this site are analysed; summaries about e.g. keywords used by the user are given.
 - **Cloudflare**: DNS and most network traffic on the domain go through Cloudflare, so the network traffic is analysed; summaries about e.g. visitor locations are given.
 
-Alternative linked data formats (e.g. RDF/XML, Turtle) are not supported at present.
-
 [cc-by-sa-4]: https://creativecommons.org/licenses/by-sa/4.0/
 [jekyll]: https://jekyllrb.com/
 [minima-rdfa]: https://github.com/lmy441900/minima/tree/master-rdfa-lite
