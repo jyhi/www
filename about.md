@@ -23,8 +23,8 @@ See also my:
 *[HKBU]: Hong Kong Baptist University
 *[BI7PXN]: Bravo India Seven Papa X-ray November
 [foaf]: https://en.wikipedia.org/wiki/FOAF_(ontology)
-[uos]:      https://www.southampton.ac.uk/
-[uic]:      https://uic.edu.cn/
+[uos]: https://www.southampton.ac.uk/
+[uic]: https://uic.edu.cn/
 
 ### Contact
 
@@ -36,7 +36,7 @@ Refer to the site footer for my existence on other media. Alternatively:
     - **live dot com**: personal alternative
     - **aosc dot io**: work, [AOSC][aosc], and development related
 
-[aosc]:     https://aosc.io/
+[aosc]: https://aosc.io/
 
 ### PGP
 
