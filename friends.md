@@ -32,9 +32,13 @@ In August 2020, I got a chance to become a certified member of the [Chaihuo Make
 
 This site is also included in [TUNA Blogroll](https://github.com/tuna/blogroll#lists), blogs in which are also full of great minds and are worth reading!
 
-You may [try extracting the above data][tryxdata] in [RDFa Lite 1.1][rdfalite11]. The complete FOAF ontology is not completed yet.
-
 </div>
+
+## Data
+
+The above list is marked with [RDFa Lite 1.1][rdfalite11] and can be [extracted][tryxdata]. The complete FOAF ontology is not completed yet.
+
+The subject URI is <http://purl.yhi.moe/about/me>.
 
 [aosc]: https://aosc.io/
 [hcc]: https://uichcc.com/
