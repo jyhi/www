@@ -109,9 +109,25 @@ These are projects that have never been started, or have been paused due to insu
 
 ### Coreboot Distribution for ThinkPad X200
 
+- Repository: <https://github.com/lmy441900/coreboot-x200>
+
+I own a ThinkPad X200, and I experiment Coreboot on it. To make the firmware as universal as possible, I plan to install as many payloads as possible, thanks to the abundant room emptied by Libreboot's `ich9gen`. This may include a GRUB 2, a SeaBIOS, a TianoCore, a tiny Linux rescue toolbox, and more. A binary distribution of the image can enable many other people to just use my work. Nevertheless, either automation of image building or end-user customisation are not done yet.
+
 ### TinyWoT
 
+- Repository: <https://github.com/lmy441900/tinywot>
+
+After some quick-and-dirty, ad-hoc implementations of [~~Mozilla~~ Web Thing API][webthing] for contests, I had the idea of creating a universal framework (or a library) that fits into both the model of W3C WoT and an extremely resource-constraint device (e.g. ATmega328p).
+
+I know Web stuff are naturally not designed for devices with only 2KiB of RAM, but what if we really have one, which can also run blazingly fast on larger devices. Meaningless, but cool.
+
+[webthing]: https://webthings.io/api/
+
 ### Itinerary
+
+This will be an application helping people to plan their trips _that rely on public transportation_. This will not be a general sight-seeing adviser; instead, it aims at addressing the pain of managing multiple public transportation trips in a journey.
+
+There will be a few niche features: hand-writing (in e.g. TOML) support, open (linked) data and printable format (PDF) output support, etc.
 
 ## Discontinued
 
