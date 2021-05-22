@@ -25,6 +25,7 @@ I am a...
 
 Refer to the site footer for my existence on other media. Alternatively:
 
+- IRC: yhi@[irc.libera.chat](ircs://irc.libera.chat)
 - Email:
   - **junde at yhi Punkt moe**: personal
   - **lmy441900 at** ...
