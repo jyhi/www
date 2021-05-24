@@ -8,7 +8,7 @@ title: Friends
 
 It's a pity that nowadays people no longer write high-quality blog posts, but instead seek for acceptance by writing fragmented micro-blogs and WeChat moments. Notwithstanding, many of my friends still keep producing great ideas and write excellent blog posts. Here are some of them:
 
-- [Haonan Bai](https://library.hoshimi.club){:knows}, [HCC][hcc] fellow, an excellent illustrator.
+- [Haonan Bai](https://hoshimi.cn){:knows}, [HCC][hcc] fellow, an excellent illustrator.
 - [Mingcong Bai](https://mingcongbai.wtf){:knows}, maintainer of [AOSC OS][aosc], a history scholar.
 - [Peter Cai](https://en.typeblog.net){:knows}, a well-known Android, FOSS developer.
 - [Renjie Deng](https://www.drjchn.com){:knows}, [HCC][hcc] fellow, one of my best friends as well as the best software developers.
