@@ -65,6 +65,16 @@ While people can read the documents, machines can too. If a website relies on Ja
 [weaving-the-web]: https://www.w3.org/People/Berners-Lee/Weaving/Overview.html
 [foreveryone-net]: https://www.foreveryone.net/
 
+### TinyWoT
+
+- Repository: <https://github.com/lmy441900/tinywot>
+
+After some quick-and-dirty, ad-hoc implementations of [~~Mozilla~~ Web Thing API][webthing] for contests, I had the idea of creating a universal framework (or a library) that fits into both the model of W3C WoT and an extremely resource-constraint device (e.g. ATmega328p).
+
+I know Web stuff are naturally not designed for devices with only 2KiB of RAM, but what if we really have one, which can also run blazingly fast on larger devices. Meaningless, but cool.
+
+[webthing]: https://webthings.io/api/
+
 ### PeaZip Simplified Chinese Localization
 
 - Repository: <https://github.com/lmy441900/PeaZip-l10n-zh-Hans>
@@ -112,16 +122,6 @@ These are projects that have never been started, or have been paused due to insu
 - Repository: <https://github.com/lmy441900/coreboot-x200>
 
 I own a ThinkPad X200, and I experiment Coreboot on it. To make the firmware as universal as possible, I plan to install as many payloads as possible, thanks to the abundant room emptied by Libreboot's `ich9gen`. This may include a GRUB 2, a SeaBIOS, a TianoCore, a tiny Linux rescue toolbox, and more. A binary distribution of the image can enable many other people to just use my work. Nevertheless, either automation of image building or end-user customisation are not done yet.
-
-### TinyWoT
-
-- Repository: <https://github.com/lmy441900/tinywot>
-
-After some quick-and-dirty, ad-hoc implementations of [~~Mozilla~~ Web Thing API][webthing] for contests, I had the idea of creating a universal framework (or a library) that fits into both the model of W3C WoT and an extremely resource-constraint device (e.g. ATmega328p).
-
-I know Web stuff are naturally not designed for devices with only 2KiB of RAM, but what if we really have one, which can also run blazingly fast on larger devices. Meaningless, but cool.
-
-[webthing]: https://webthings.io/api/
 
 ### Itinerary
 
