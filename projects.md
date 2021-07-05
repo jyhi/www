@@ -129,6 +129,14 @@ This will be an application helping people to plan their trips _that rely on pub
 
 There will be a few niche features: hand-writing (in e.g. TOML) support, open (linked) data and printable format (PDF) output support, etc.
 
+### WoT Remote Control
+
+This will be a mobile application that is capable of accepting / consuming a [Web of Things (WoT) Thing Description (TD)][wot-td]. It should be easy to generate a UI from it -- there have been a few prototypes, but they're crappy and not quite usable. People can use this application to control the Thing described by the TD on their mobile devices. They can also modify some metadata locally.
+
+This should have a straightforward UI and good UX. I may want to use Flutter.
+
+[wot-td]: https://www.w3.org/TR/wot-thing-description11/
+
 ## Discontinued
 
 These are projects that are abandoned. I'm not planning to improve them, but if someone is still interested in the ideas of them, I'll be very happy.
