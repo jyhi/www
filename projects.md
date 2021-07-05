@@ -75,6 +75,24 @@ I know Web stuff are naturally not designed for devices with only 2KiB of RAM, b
 
 [webthing]: https://webthings.io/api/
 
+### Can
+
+- Repository: <https://git.soton.ac.uk/ml10g20/can>
+
+"Can" is a _ChaCha20-Poly1305 Cryptographic Accelerator Based on a [No-Instruction-Set Computer (NISC)][nisc] Architecture_. It's first an implementation of a NISC processor, and then a cryptographic processor -- the cipher is an application running on it. This is my master's project and thesis.
+
+The concept of NISC starts from [this technical report][dgajski2003nisc] in 2003, which is relatively new. Basically, compared to CISC and RISC, NISC achieves the "N" by directly dropping the concept of instructions. Imagine the control signals behind a RISC processor's decoder -- they're stored as it is in the program memory, called _Control Words_. The downside of NISC is obvious: the code size bloats.
+
+I think NISC is most valuable in [High Level Synthesis (HLS)][hls], although this project has nothing to do about HLS. With a NISC methodology, since there is no instruction and the program (CWs) should control every component in the processor, the compiler will have the ability to generate a hardware processor (along with software (CWs)) directly from software codes in e.g. C. There will be no soft IP core then: it's generated each time a software program is compiled into a NISC processor. _(I might be wrong)_
+
+LLVM [MLIR] and [CIRCT] are very likely to be the basis of a NISC compiler.
+
+[nisc]: https://en.wikipedia.org/wiki/No_instruction_set_computing
+[dgajski2003nisc]: http://www.cecs.uci.edu/~cad/publications/tech-reports/2003/TR-03-28.NISC.pdf
+[hls]: https://en.wikipedia.org/wiki/High-level_synthesis
+[MLIR]: https://mlir.llvm.org/
+[CIRCT]: https://circt.llvm.org/
+
 ### PeaZip Simplified Chinese Localization
 
 - Repository: <https://github.com/lmy441900/PeaZip-l10n-zh-Hans>
