@@ -15,6 +15,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [FiveYellowMice](https://fiveyellowmice.com){:knows}.
 - [Megumi Fox](https://blog.megumifox.com){:knows}, a cute little fox. [(?)](https://blog.megumifox.com/public/about)
 - [Siubeng Fung](https://feng.moe){:knows}, a well-known Android, FOSS developer.
+- [icecat](https://blog.morz.org){:knows}.
 - [Terence Lau](https://www.deluxelau.com){:knows}, [HCC][hcc] fellow, statistics expert.
 - [RainySummer Luo](https://lzc.app){:knows}, [HCC][hcc] fellow, a tech-savvy.
 - [Peter Pan Chi-fei](https://panzhifei.fun){:knows}, a genuine maker.
