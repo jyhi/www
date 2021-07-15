@@ -7,8 +7,8 @@ title: About
 
 I am a...
 
-- ~~MSc~~ Postgraduate student in Internet of Things at [University of Southampton][uos].
-- BSc (Hons) in Computer Science and Technology at [BNU--HKBU United International College][uic].
+- Current postgraduate student, Internet of Things, [University of Southampton][uos].
+- BSc (Hons) \'20, computer science and technology, [BNU--HKBU United International College][uic].
 - Contributor in [Anthon Open Source Community][aosc].
 - HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
 
