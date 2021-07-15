@@ -7,19 +7,20 @@ title: About
 
 I am a...
 
-- Current postgraduate student, Internet of Things, [University of Southampton][uos].
-- BSc (Hons) \'20, computer science and technology, [BNU--HKBU United International College][uic].
+- Postgraduate student in Internet of Things at [University of Southampton][uos].
+- BSc (Hons) \'20 in Computer Science and Technology at [BNU–HKBU UIC][uic].
 - Contributor in [Anthon Open Source Community][aosc].
+- Webmaster of [gddg.studio][gddg].
 - HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
 
 *[MSc]: Master of Science
-*[BSc (Hons)]: Bachelor of Science (Honours)
-*[BNU]: Beijing Normal University
-*[HKBU]: Hong Kong Baptist University
+*[BSc (Hons) '20]: Bachelor of Science (Honours), class 2020
+*[BNU–HKBU UIC]: Beijing Normal University–Hong Kong Baptist University United International College
 *[BI7PXN]: Bravo India Seven Papa X-ray November
 [foaf]: https://en.wikipedia.org/wiki/FOAF_(ontology)
 [uos]: https://www.southampton.ac.uk/
 [uic]: https://uic.edu.cn/
+[gddg]: https://gddg.studio/
 
 ### Contact
 
