@@ -16,7 +16,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [Megumi Fox](https://blog.megumifox.com){:knows}, a cute little fox. [(?)](https://blog.megumifox.com/public/about)
 - [Siubeng Fung](https://feng.moe){:knows}, a well-known Android, FOSS developer.
 - [Terence Lau](https://www.deluxelau.com){:knows}, [HCC][hcc] fellow, statistics expert.
-- [Rainysummer Luo](https://pages.rainysummer.top){:knows}, [HCC][hcc] fellow, a tech-savvy.
+- [RainySummer Luo](https://lzc.app){:knows}, [HCC][hcc] fellow, a tech-savvy.
 - [Peter Pan Chi-fei](https://panzhifei.fun){:knows}, a genuine maker.
 - [Zhanming Tian](https://hixiaotian.com){:knows}, [HCC][hcc] fellow, an excellent student.
 - [Zhenghao Wu](https://ecwuuuuu.com){:knows}, [HCC][hcc] fellow, one of my best friends, a deep learning expert.
