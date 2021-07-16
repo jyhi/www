@@ -5,8 +5,6 @@ title: Projects
 
 This is a page showcasing projects I have worked on, is working on, or plan to work on. I give brief introductions to, technologies I use in, concepts involved in, and personal thoughts on the projects. I usually think too much when creating projects, and most of the time people just don't understand what I think. This time, I try to write them down.
 
-**Note:** I'm still working on this page, so the information is not complete yet.
-
 - Table of Contents
 {:toc}
 
