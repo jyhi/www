@@ -29,7 +29,6 @@ header_pages:
   - about.md
   - blog.md
   - projects.md
-  - services.md
   - friends.md
 show_excerpts: true
 

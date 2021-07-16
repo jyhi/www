@@ -12,13 +12,7 @@ This is a page showcasing projects I have worked on, is working on, or plan to w
 
 These are my recently progressing projects; new features are added from time to time.
 
-### World Wide Web Services
-
-All World Wide Web (WWW) services are included in this category, including:
-
-- [This site][this-src]
-  - The [RDFa Lite Minima][minima-rdfa]
-- [Persistent URL (PURL)]({% link services.md %}#purl)
+### This Site
 
 [Jekyll][jekyll] is used to statically generate this whole website from [Markdown][markdown]. Despite the fact that this site just uses the Jekyll's default [Minima][minima] theme, a few tweaks are made:
 
@@ -42,7 +36,6 @@ While people can read the documents, machines can too. If a website relies on Ja
 
 [Sir Tim Berners-Lee][timbl], who's the inventor of WWW, has a biography, [_Weaving the Web_][weaving-the-web], that explains the original design of the Web, which I think we haven't even achieved yet. There's also a documentary, [ForEveryone.net][foreveryone-net], in which Sir Tim, along with people working on and using the WWW, are interviewed. Some dialogues are taken from the biography. I've also [translated](#foreveryone-net) the subtitles into Simplified Chinese.
 
-[this-src]: https://github.com/lmy441900/www
 [minima-rdfa]: https://github.com/lmy441900/minima
 [jekyll]: https://jekyllrb.com/
 [markdown]: https://en.wikipedia.org/wiki/Markdown
@@ -62,6 +55,18 @@ While people can read the documents, machines can too. If a website relies on Ja
 [timbl]: https://en.wikipedia.org/wiki/Tim_Berners-Lee
 [weaving-the-web]: https://www.w3.org/People/Berners-Lee/Weaving/Overview.html
 [foreveryone-net]: https://www.foreveryone.net/
+
+### PURL
+
+- Repository: <https://github.com/lmy441900/purl-workers>
+
+PURL stands for [Persistent Uniform Resource Locator][purl-wp]. This is a serverless service: it runs on [Cloudflare Workers][cfwkrs]. It can be used as a URI ID service as well as a self-host [URL shortening][surl-wp] service.
+
+I build this project (service) mainly for my use. I assign IDs to things using `purl.yhi.moe`. Sometimes I use this to shorten URLs on my Apex domain (`yhi.moe`). As an interesting use case, `/` is registered to jump to `www.yhi.moe`.
+
+[purl-wp]: https://en.wikipedia.org/wiki/PURL
+[surl-wp]: https://en.wikipedia.org/wiki/URL_shortening
+[cfwkrs]: https://workers.cloudflare.com/
 
 ### TinyWoT
 
