@@ -8,7 +8,7 @@ category:
 
 **Update:** 修订于 2018-12-23 / 2019-1-5，第二次 AOSC OS MIPS Port Bootstrap。
 
-写这篇文章的时候我对 LFS 和 MIPS 都一知半解。对我新一次构建的笔记，参见 [LFS on MIPS64 全过程笔录](https://lmy441900.github.io/mips/lfs/2018/12/23/lfs-on-mips64-process.html)。
+写这篇文章的时候我对 LFS 和 MIPS 都一知半解。对我新一次构建的笔记，参见 [LFS on MIPS64 全过程笔录]({% post_url 2018-12-23-lfs-on-mips64-process %})。
 
 ---
 

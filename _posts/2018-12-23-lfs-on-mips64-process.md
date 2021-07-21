@@ -12,7 +12,7 @@ category:
 
 > 明年年初，社区合作的 MIPS Port 即将（第二次）正式开机，我将继续扮演架构维护者，我会用维护者技术手段努力创造一个能用的形象，文体两开花，弘扬 MIPS 文化，希望大家多多关注
 
-另可参见我两年前记录的 [LFS on MIPS64 笔记](https://lmy441900.github.io/mips/lfs/2016/12/12/lfs-on-mips64-notes.html)。
+另可参见我两年前记录的 [LFS on MIPS64 笔记]({% post_url 2016-12-12-lfs-on-mips64-notes %})。
 
 ## 编译平台
 
