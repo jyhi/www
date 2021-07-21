@@ -77,3 +77,9 @@ No analytical script (e.g. Google Analytics) is deployed on the site to track us
 [rdfa]: http://rdfa.info/
 [cf-pages]: https://pages.cloudflare.com/
 [gsc]: https://search.google.com/search-console/about
+
+### Technical Information
+
+This site is built aginst commit [{{ site.git.last_commit.short_sha }}][src] at {{ site.time }}.
+
+[src]: https://github.com/lmy441900/www/commit/{{ site.git.last_commit.long_sha }}

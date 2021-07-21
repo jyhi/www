@@ -15,6 +15,7 @@ exclude:
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-git_metadata
 feed:
   excerpt_only: true
 

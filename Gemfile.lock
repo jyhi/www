@@ -1,4 +1,12 @@
 GIT
+  remote: https://github.com/ctrlgroup/jekyll-git_metadata
+  revision: e61de3c2e87f720744608e42e1bb56a68e506108
+  ref: e61de3c2e87f720744608e42e1bb56a68e506108
+  specs:
+    jekyll-git_metadata (0.3.1)
+      jekyll (~> 4.0)
+
+GIT
   remote: https://github.com/lmy441900/minima
   revision: f65eb37e6cae0cb2631891bff32df3ce22b79ecd
   branch: master-rdfa-lite
@@ -80,6 +88,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.2.0)
+  jekyll-git_metadata!
   jekyll-redirect-from
   jekyll-sitemap (~> 1.4.0)
   minima!
