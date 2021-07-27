@@ -80,6 +80,6 @@ No analytical script (e.g. Google Analytics) is deployed on the site to track us
 
 ### Technical Information
 
-This site is built aginst commit [{{ site.git.last_commit.short_sha }}][src] at {{ site.time }}.
+This site is built against commit [{{ site.git.last_commit.short_sha }}][src] at {{ site.time }}.
 
 [src]: https://github.com/lmy441900/www/commit/{{ site.git.last_commit.long_sha }}
