@@ -3,7 +3,7 @@
 This repository contains the source files of [www.yhi.moe](https://www.yhi.moe/).
 
 - Static Web site generator: [Jekyll](https://jekyllrb.com/)
-- Jekyll theme used: [Minima (RDFa linked version)](https://github.com/lmy441900/minima)
+- Jekyll theme used: [Minima (self-use fork)](https://github.com/lmy441900/minima)
 
 ## Build
 
