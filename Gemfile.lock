@@ -8,8 +8,8 @@ GIT
 
 GIT
   remote: https://github.com/lmy441900/minima
-  revision: f65eb37e6cae0cb2631891bff32df3ce22b79ecd
-  branch: master-rdfa-lite
+  revision: 72539a2b26a548887cc702c7f32db4065f9b6d53
+  branch: self-use
   specs:
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
