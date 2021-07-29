@@ -35,7 +35,7 @@ show_excerpts: true
 
 # Minima: theme-wide (namespaced site-wide)
 minima:
-  skin: solarized
+  skin: classic
   social_links:
     telegram: lmy441900
     github: lmy441900
