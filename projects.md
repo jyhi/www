@@ -18,6 +18,7 @@ These are my recently progressing projects; new features are added from time to 
 
 - [Kramdown][kramdown] has a few powerful markups allowing more control of HTML from Markdown
 - I [changed][minima-rdfa] [Microdata][microdata] in [Minima][minima] to [RDFa][rdfa]
+- I rebased and merged a few pending pull requests to jekyll/minima
 
 Both [Microdata][microdata] and [RDFa][rdfa] are [Linked Data][ld] markups. The former is defined in the [HTML Living Standard][html-std], while the latter is defined by [W3C][w3c] and is used in all other non-HTML scenarios.
 

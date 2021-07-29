@@ -63,7 +63,7 @@ This site is proudly built:
 
 - _without JavaScript_
 - with [Jekyll][jekyll]
-  - and theme [Minima][minima-rdfa] v2.99 ([RDFa][rdfa] enabled fork)
+  - and theme [Minima][minima-self] v2.99 (self-use fork with changes and enhancements)
 - by and hosted on [Cloudflare Pages][cf-pages]
 
 No analytical script (e.g. Google Analytics) is deployed on the site to track users. However, the following service providers **do** analyse visitors:
@@ -73,8 +73,7 @@ No analytical script (e.g. Google Analytics) is deployed on the site to track us
 
 [cc-by-sa-4]: https://creativecommons.org/licenses/by-sa/4.0/
 [jekyll]: https://jekyllrb.com/
-[minima-rdfa]: https://github.com/lmy441900/minima/tree/master-rdfa-lite
-[rdfa]: http://rdfa.info/
+[minima-self]: https://github.com/lmy441900/minima/tree/self-use
 [cf-pages]: https://pages.cloudflare.com/
 [gsc]: https://search.google.com/search-console/about
 
