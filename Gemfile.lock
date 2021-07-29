@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/lmy441900/minima
-  revision: 72539a2b26a548887cc702c7f32db4065f9b6d53
+  revision: d344d2600e2427ba65b220b7df1a30426881287e
   branch: self-use
   specs:
     minima (2.5.1)
