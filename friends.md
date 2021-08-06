@@ -11,6 +11,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [Haonan Bai](https://hoshimi.cn){:knows}, [HCC][hcc] fellow, an excellent illustrator.
 - [Mingcong Bai](https://mingcongbai.wtf){:knows}, maintainer of [AOSC OS][aosc], a history scholar.
 - [Peter Cai](https://en.typeblog.net){:knows}, a well-known Android, FOSS developer.
+- [Tianhao Chai](https://cth451.me){:knows}, member of [AOSC][aosc], a mathematician and photographer.
 - [Renjie Deng](https://www.drjchn.com){:knows}, [HCC][hcc] fellow, one of my best friends as well as the best software developers.
 - [FiveYellowMice](https://fiveyellowmice.com){:knows}.
 - [Megumi Fox](https://blog.megumifox.com){:knows}, a cute little fox. [(?)](https://blog.megumifox.com/public/about)
