@@ -8,22 +8,22 @@ title: Friends
 
 It's a pity that nowadays people no longer write high-quality blog posts, but instead seek for acceptance by writing fragmented micro-blogs and WeChat moments. Notwithstanding, many of my friends still keep producing great ideas and write excellent blog posts. Here are some of them:
 
-- [Haonan Bai](https://hoshimi.cn){:knows}, [HCC][hcc] fellow, an excellent illustrator.
-- [Mingcong Bai](https://mingcongbai.wtf){:knows}, maintainer of [AOSC OS][aosc], a history scholar.
-- [Peter Cai](https://en.typeblog.net){:knows}, a well-known Android, FOSS developer.
-- [Tianhao Chai](https://cth451.me){:knows}, member of [AOSC][aosc], a mathematician and photographer.
-- [Renjie Deng](https://www.drjchn.com){:knows}, [HCC][hcc] fellow, one of my best friends as well as the best software developers.
+- [Haonan Bai](https://hoshimi.cn){:knows}, [HCC] member, excellent illustrator.
+- [Mingcong Bai](https://mingcongbai.wtf){:knows}, [AOSC OS][AOSC] maintainer, history scholar.
+- [Peter Cai](https://en.typeblog.net){:knows}, Android FOSS developer.
+- [Tianhao Chai](https://cth451.me){:knows}, [AOSC] member, mathematician and photographer.
+- [Renjie Deng](https://www.drjchn.com){:knows}, [HCC] member, one of my best friends as well as the best software developers.
 - [FiveYellowMice](https://fiveyellowmice.com){:knows}.
-- [Megumi Fox](https://blog.megumifox.com){:knows}, a cute little fox. [(?)](https://blog.megumifox.com/public/about)
-- [Siubeng Fung](https://feng.moe){:knows}, a well-known Android, FOSS developer.
+- [Megumi Fox](https://blog.megumifox.com){:knows}, cute little fox. [(?)](https://blog.megumifox.com/public/about)
+- [Siubeng Fung](https://feng.moe){:knows}, Android FOSS developer.
 - [icecat](https://blog.morz.org){:knows}.
-- [Terence Lau](https://www.deluxelau.com){:knows}, [HCC][hcc] fellow, statistics expert.
-- [RainySummer Luo](https://lzc.app){:knows}, [HCC][hcc] fellow, a tech-savvy.
-- [Peter Pan Chi-fei](https://panzhifei.fun){:knows}, a genuine maker.
-- [Zhanming Tian](https://hixiaotian.com){:knows}, [HCC][hcc] fellow, an excellent student.
-- [Zhenghao Wu](https://ecwuuuuu.com){:knows}, [HCC][hcc] fellow, one of my best friends, a deep learning expert.
+- [Terence Lau](https://www.deluxelau.com){:knows}, [HCC] member, statistics expert.
+- [RainySummer Luo](https://lzc.app){:knows}, [HCC] member, tech-savvy.
+- [Peter Pan Chi-fei](https://panzhifei.fun){:knows}, genuine maker.
+- [Zhanming Tian](https://hixiaotian.com){:knows}, [HCC] member, an excellent student.
+- [Zhenghao Wu](https://ecwuuuuu.com){:knows}, [HCC] member, one of my best friends, deep learning expert.
 - [Shunyu (David) Yao](https://davidyao1518.github.io){:knows}, our respected schoolmate in UIC.
-- [Junru Zhong](https://junru.dev){:knows}, [HCC][hcc] fellow, a computer science and transportation enthusiast.
+- [Junru Zhong](https://junru.dev){:knows}, [HCC] member, computer science and transportation enthusiast.
 
 In August 2020, I got a chance to become a certified member of the [Chaihuo Maker Space](https://www.chaihuo.org/), where passionate makers gather. I don't think I'm an _authentic_ maker; I'm interested in playing with hardware, but I didn't invest a lot of time in it. Some _true_ makers I came across in the certified members' chat group also set up their websites to show their results and products. Here are some of them:
 
@@ -42,7 +42,9 @@ The above list is marked with [RDFa Lite 1.1][rdfalite11] and can be [extracted]
 
 The subject URI is <http://purl.yhi.moe/about/me>.
 
-[aosc]: https://aosc.io/
-[hcc]: https://uichcc.com/
-[tryxdata]: https://www.w3.org/2012/pyRdfa/
+*[FOSS]: Free and Open Source Software
+*[BA]: Bachelor of Arts
+[AOSC]: https://aosc.io/
+[HCC]: https://uichcc.com/
 [rdfalite11]: https://www.w3.org/TR/2015/REC-rdfa-lite-20150317/
+[tryxdata]: https://www.w3.org/2012/pyRdfa/
