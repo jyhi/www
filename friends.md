@@ -22,6 +22,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [Peter Pan Chi-fei](https://panzhifei.fun){:knows}, genuine maker.
 - [Zhanming Tian](https://hixiaotian.com){:knows}, [HCC] member, an excellent student.
 - [Zhenghao Wu](https://ecwuuuuu.com){:knows}, [HCC] member, one of my best friends, deep learning expert.
+- [Daming Yang](https://bigcat.ee){:knows}, [AOSC] member, talented computer scientist, BA in Japanese.
 - [Shunyu (David) Yao](https://davidyao1518.github.io){:knows}, our respected schoolmate in UIC.
 - [Junru Zhong](https://junru.dev){:knows}, [HCC] member, computer science and transportation enthusiast.
 
