@@ -23,9 +23,9 @@ feed:
 title: Hello from Junde Yhi
 author:
   name: Junde Yhi
-  email: PGp1bmRlQHloaS5tb2U+
+  email: anVuZGVAeWhpLm1vZQo=
 description: >-
-  Junde Yhi's personal website and World Wide Web services.
+  Junde Yhi's personal World Wide Web portal.
 header_pages:
   - about.md
   - blog.md
@@ -40,7 +40,6 @@ minima:
     telegram: lmy441900
     github: lmy441900
     twitter: lmy441900
-    linkedin: lmy441900
     mastodon:
       - username: lmy441900
         instance: sn.angry.im
