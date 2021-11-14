@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tor 实践
+lang: cmn-Hans
 category:
   - blog
   - cn

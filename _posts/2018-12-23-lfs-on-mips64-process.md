@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LFS on MIPS64 全过程笔录
+lang: cmn-Hans
 category:
   - blog
   - cn

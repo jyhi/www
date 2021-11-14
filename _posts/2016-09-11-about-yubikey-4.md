@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 关于 Yubikey 4 的一些玄学
+lang: cmn-Hans
 category:
   - blog
   - cn

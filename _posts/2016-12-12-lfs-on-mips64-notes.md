@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LFS on MIPS64 笔记
+lang: cmn-Hans
 category:
   - blog
   - cn

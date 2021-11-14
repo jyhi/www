@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何在单台服务器上可靠地部署 ownCloud
+lang: cmn-Hans
 category:
   - blog
   - cn
