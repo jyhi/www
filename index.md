@@ -5,7 +5,7 @@ title: Home
 
 Hi! This is [Junde Yhi][about-me]'s personal website.
 
-This home page acts as a simple landing page of the website. More information can be retrieved from other Web pages on the website.
+This home page acts as a simple landing page for the website. More information can be retrieved from other pages.
 
 ## Quick Links
 

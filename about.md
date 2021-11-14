@@ -7,53 +7,55 @@ title: About
 
 I am a...
 
-- Postgraduate student in Internet of Things at [University of Southampton][uos].
-- BSc (Hons) \'20 in Computer Science and Technology at [BNU–HKBU UIC][uic].
-- Contributor in [Anthon Open Source Community][aosc].
-- Webmaster of [gddg.studio][gddg].
+- Software Engineer at [IOTA Foundation][if]
+- Community member of [Anthon Open Source Community][aosc].
 - HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
 
+I was a...
+
+- Postgraduate student in Internet of Things at [University of Southampton][uos].
+  - now MSc \'21
+- Undergraduate student in Computer Science and Technology at [BNU–HKBU UIC][uic].
+  - now BSc (Hons) \'20
+
+I am also at...
+
+- IRC: yhi@irc.libera.chat
+- Email: junde \[at\] yhi \[dot\] moe
+- Telegram: [@lmy441900](https://t.me/lmy441900)
+- Discord: Junde Yhi\#7860
+- GitHub: [@lmy441900](https://github.com/lmy441900)
+- Twitter: [@lmy441900](https://twitter.com/lmy441900)
+- Mastodon: [@lmy441900@sn.angry.im](https://sn.angry.im/@lmy441900)
+- YouTube: [Junde Yhi](https://www.youtube.com/channel/UCLfPUs9whRpb70I6Z1swXag)
+- Twitch: [JundeYhi](https://www.twitch.tv/jundeyhi)
+- Bilibili: [以俊德](https://space.bilibili.com/50639488)
+- osu!: [yhi](https://osu.ppy.sh/users/16462774)
+- Arcaea: 873 012 337
+- Genshin Impact: 116046150 @ CN MiHoYo
+- ~~QSO: 147.950 MHz, 430.050 MHz, FM Voice~~
+- ...
+
+*[MSc '21]: Master of Science, class 2021
 *[BSc (Hons) '20]: Bachelor of Science (Honours), class 2020
 *[BNU–HKBU UIC]: Beijing Normal University–Hong Kong Baptist University United International College
 *[BI7PXN]: Bravo India Seven Papa X-ray November
+
+[if]: https://www.iota.org/
 [uos]: https://www.southampton.ac.uk/
 [uic]: https://uic.edu.cn/
-[gddg]: https://gddg.studio/
-
-### Contact
-
-Refer to the site footer for my existence on other media. Alternatively:
-
-- IRC: yhi@[irc.libera.chat](ircs://irc.libera.chat)
-- Email:
-  - **junde at yhi Punkt moe**: personal
-  - **lmy441900 at** ...
-    - **live dot com**: personal alternative
-    - **aosc dot io**: work, [AOSC][aosc], and development related
-
 [aosc]: https://aosc.io/
 
 ### PGP
 
-Fingerprint: **`E6C7 4782 A1FB EE74 1D09  885F D274 286F 672C 800A`**.
-
-Fetch the public key from [keys.openpgp.org][koo].
-
-Subkey usage explanation:
-
-- `ed25519/ABDA5B82F36D3DB2 2019-10-19 [S]`
-  - Main signing key. Located in a smart card (Yubikey 5 NFC).
-- `cv25519/1B318A5615C632D0 2019-10-19 [E]`
-  - Main encryption key. Located in a smart card (Yubikey 5 NFC).
-- `rsa2048/943D73C9AD8AFB50 2019-10-19 [S] [expires: 2021-03-01]`
-  - (Deprecated) On-card signing key. Located in a smart card (Yubikey 4, which doesn't support Curve25519). I'm not using it any more.
-
-My old key, ~~`42F6 3E9D 68B9 884B 414D  4185 1029 4E7C 4008 E282`~~, has been revoked. I have switched my PGP key to a newly generated `ed25519 / cv25519` one, and I'm applying some best practices I learned after I've created my last PGP key. If you have signed on my old key, you can trust my new key since I've signed it with my old key in prior to the revocation. (Unfortunately this process is still not a best practice!)
-
-[ca-pgp]: https://ca.yhi.moe/pgp/main.asc
-[koo]: https://keys.openpgp.org/vks/v1/by-fingerprint/E6C74782A1FBEE741D09885FD274286F672C800A
-[sks]: https://sks-keyservers.net/
-[sks-death]: https://code.firstlook.media/the-death-of-sks-pgp-keyservers-and-how-first-look-media-is-handling-it
+- **`D3B1 90D6 6FF1 DD50 9F83  D71A 385F 41A9 1FE0 82D1`** (in use)
+  - fetch the public key from...
+    - [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/D3B190D66FF1DD509F83D71A385F41A91FE082D1)
+    - [purl.yhi.moe](https://purl.yhi.moe/ca/pgp/d3b190d66ff1dd509f83d71a385f41a91fe082d1.asc) (with key signatures for Web of Trust)
+- ~~`E6C7 4782 A1FB EE74 1D09  885F D274 286F 672C 800A`~~ (almost dead)
+  - I sadly forget the passphrase to unlock the LUKS partition storing its master key and revocation certificate...
+- ~~`42F6 3E9D 68B9 884B 414D  4185 1029 4E7C 4008 E282`~~ (revoked)
+  - I sadly forgot the fact that this key was in the PGP Web of Trust Strong Set...
 
 ## About This Site {#this-site}
 
@@ -66,7 +68,7 @@ This site is proudly built:
   - and theme [Minima][minima-self] v2.99 (self-use fork with changes and enhancements)
 - by and hosted on [Cloudflare Pages][cf-pages]
 
-No analytical script (e.g. Google Analytics) is deployed on the site to track users. However, the following service providers **do** analyse visitors:
+No analytical script (e.g. Google Analytics) is deployed on the site, nor there is a cookie set from the site to track users. However, the following service providers **do** analyse visitors:
 
 - **Google**: [Google Search Console][gsc] is set up on the domain name, so Google search results related to this site are analysed; summaries about e.g. keywords used by the user are given.
 - **Cloudflare**: DNS and most network traffic on the domain go through Cloudflare, so the network traffic is analysed; summaries about e.g. visitor locations are given.
