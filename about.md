@@ -81,6 +81,10 @@ No analytical script (e.g. Google Analytics) is deployed on the site, nor there 
 
 ### Technical Information
 
-This site is built at {{ site.time }} against commit [{{ site.git.last_commit.short_sha }}][src] (_{{ site.git.last_commit.message }}_).
+{% comment -%}
+  The newline_to_br | split trick is because split cannot find a '\n'...
+{%- endcomment -%}
+
+This site is built at {{ site.time }} against commit [{{ site.git.last_commit.short_sha }}][src] (_{{ site.git.last_commit.message | newline_to_br | split: '<br />' | first }}_).
 
 [src]: https://github.com/lmy441900/www/commit/{{ site.git.last_commit.long_sha }}
