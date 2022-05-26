@@ -29,10 +29,10 @@ I am also at...
 - Mastodon: [@lmy441900@sn.angry.im](https://sn.angry.im/@lmy441900)
 - YouTube: [Junde Yhi](https://www.youtube.com/channel/UCLfPUs9whRpb70I6Z1swXag)
 - Twitch: [JundeYhi](https://www.twitch.tv/jundeyhi)
-- Bilibili: [以俊德](https://space.bilibili.com/50639488)
+- Bilibili: <span lang="cmn-Hans">[以俊德](https://space.bilibili.com/50639488)</span>
 - osu!: [yhi](https://osu.ppy.sh/users/16462774)
 - Arcaea: 873 012 337
-- Genshin Impact: 116046150 @ CN MiHoYo
+- Genshin Impact: 116046150
 - ~~QSO: 147.950 MHz, 430.050 MHz, FM Voice~~
 - ...
 
@@ -51,7 +51,7 @@ I am also at...
 - **`D3B1 90D6 6FF1 DD50 9F83  D71A 385F 41A9 1FE0 82D1`** (in use)
   - fetch the public key from...
     - [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/D3B190D66FF1DD509F83D71A385F41A91FE082D1)
-    - [purl.yhi.moe](https://purl.yhi.moe/ca/pgp/d3b190d66ff1dd509f83d71a385f41a91fe082d1.asc) (with key signatures for Web of Trust)
+    - [purl.yhi.moe](https://purl.yhi.moe/pgp/d3b190d66ff1dd509f83d71a385f41a91fe082d1/jyhi.asc) (with key signatures for Web of Trust)
 - ~~`E6C7 4782 A1FB EE74 1D09  885F D274 286F 672C 800A`~~ (almost dead)
   - I sadly forget the passphrase to unlock the LUKS partition storing its master key and revocation certificate...
 - ~~`42F6 3E9D 68B9 884B 414D  4185 1029 4E7C 4008 E282`~~ (revoked)
