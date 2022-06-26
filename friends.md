@@ -13,15 +13,15 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [FiveYellowMice](https://fiveyellowmice.com).
 - [Megumi Fox](https://blog.megumifox.com), cute little fox. [(?)](https://blog.megumifox.com/public/about)
 - [Siubeng Fung](https://feng.moe), Android FOSS developer.
-- [Hmsy](https://aquarium39.moe).
-- [huige233](https://huige233.github.io/vuepress-theme/).
-- [icecat](https://blog.morz.org).
-- [Inoki](https://www.inoki.cc).
-- [KirinBaka](https://9baka.moe).
+- [Hmsy](https://aquarium39.moe), [HCC] member, [Miku](https://en.wikipedia.org/wiki/Hatsune_Miku) fan.
+- [huige233](https://huige233.github.io/vuepress-theme/), outstanding [Olympiad in Informatics](https://ioinformatics.org/) player.
+- [icecat](https://blog.morz.org), computer network engineer.
+- [Inoki](https://www.inoki.cc), brilliant embedded and FOSS developer.
+- [KirinBaka](https://9baka.moe), [HCC] member.
 - [Terence Lau](https://www.deluxelau.com), [HCC] member, statistics expert.
 - [RainySummer Luo](https://lzc.app), [HCC] member, tech-savvy.
-- [Peter Pan Chi-fei](https://panzhifei.fun), genuine maker.
-- [Zhanming Tian](https://hixiaotian.com), [HCC] member, an excellent student.
+- [Peter Pan Chi-Fei](https://panzhifei.fun), genuine maker.
+- [Zhanming Tian](https://hixiaotian.com), [HCC] member, top student.
 - [Zhenghao Wu](https://ecwuuuuu.com), [HCC] member, one of my best friends, deep learning expert.
 - [Daming Yang](https://bigcat.ee), [AOSC] member, talented computer scientist, BA in Japanese.
 - [Shunyu (David) Yao](https://davidyao1518.github.io), our respected schoolmate in UIC.
@@ -29,9 +29,9 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 
 In August 2020, I got a chance to become a certified member of the [Chaihuo Maker Space](https://www.chaihuo.org/), where passionate makers gather. I don't think I'm an _authentic_ maker; I'm interested in playing with hardware, but I didn't invest a lot of time in it. Some _true_ makers I came across in the certified members' chat group also set up their websites to show their results and products. Here are some of them:
 
-- [Curious Bin \[zh-Hans\]](http://www.haoqiabin.cn)
-- [Meng Cheng (dreamc) \[zh-Hans\]](https://www.dreamcstudio.cn)
-- [IT1995 \[zh-Hans\]](http://www.it1995.cn)
+- [Curious Bin](http://www.haoqiabin.cn)
+- [Meng Cheng (dreamc)](https://www.dreamcstudio.cn)
+- [IT1995](http://www.it1995.cn)
 - [Bo Liu](https://blogs.oopswow.com)
 
 This site is also included in [TUNA Blogroll](https://github.com/tuna/blogroll#lists), blogs in which are also full of great minds and are worth reading!
