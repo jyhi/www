@@ -14,7 +14,9 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [Megumi Fox](https://blog.megumifox.com), cute little fox. [(?)](https://blog.megumifox.com/public/about)
 - [Siubeng Fung](https://feng.moe), Android FOSS developer.
 - [Hmsy](https://aquarium39.moe).
+- [huige233](https://huige233.github.io/vuepress-theme/).
 - [icecat](https://blog.morz.org).
+- [Inoki](https://www.inoki.cc).
 - [KirinBaka](https://9baka.moe).
 - [Terence Lau](https://www.deluxelau.com), [HCC] member, statistics expert.
 - [RainySummer Luo](https://lzc.app), [HCC] member, tech-savvy.
