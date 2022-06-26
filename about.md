@@ -5,25 +5,24 @@ title: About
 
 ## About Me {#me}
 
-I am a...
+I am...
 
-- Software Engineer at [IOTA Foundation][if]
-- Community member of [Anthon Open Source Community][aosc].
-- HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
+- a community member of [Anthon Open Source Community][aosc].
+- a HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
+- looking for a job.
 
 I was a...
 
+- Software Engineer at [IOTA Foundation][if].
 - Postgraduate student in Internet of Things at [University of Southampton][uos].
-  - now MSc \'21
 - Undergraduate student in Computer Science and Technology at [BNU–HKBU UIC][uic].
-  - now BSc (Hons) \'20
 
-I am also at...
+I can be found on...
 
-- IRC: yhi@irc.libera.chat
 - Email: junde \[at\] yhi \[dot\] moe
 - Telegram: [@lmy441900](https://t.me/lmy441900)
 - Discord: Junde Yhi\#7860
+- IRC: yhi@irc.libera.chat (usually offline)
 - GitHub: [@lmy441900](https://github.com/lmy441900)
 - Twitter: [@lmy441900](https://twitter.com/lmy441900)
 - Mastodon: [@lmy441900@sn.angry.im](https://sn.angry.im/@lmy441900)
@@ -33,7 +32,6 @@ I am also at...
 - osu!: [yhi](https://osu.ppy.sh/users/16462774)
 - Arcaea: 873 012 337
 - Genshin Impact: 116046150
-- ~~QSO: 147.950 MHz, 430.050 MHz, FM Voice~~
 - ...
 
 *[MSc '21]: Master of Science, class 2021
@@ -59,7 +57,7 @@ I am also at...
 
 ## About This Site {#this-site}
 
-Blog posts are in English or (Simplified) Chinese. Unless otherwise specified, all contents on the site are licensed under the [CC-BY-SA 4.0][cc-by-sa-4] license.
+Blog posts are in English or Simplified Chinese. Unless otherwise specified, all contents on the site are licensed under the [CC-BY-SA 4.0][cc-by-sa-4] license.
 
 This site is proudly built:
 
