@@ -18,8 +18,11 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [icecat](https://blog.morz.org), computer network engineer.
 - [Inoki](https://www.inoki.cc), brilliant embedded and FOSS developer.
 - [KirinBaka](https://9baka.moe), [HCC] member.
+- [Konnyaku](https://hee.ink).
+- [KooriMoe](https://icm.moe).
 - [Terence Lau](https://www.deluxelau.com), [HCC] member, statistics expert.
 - [RainySummer Luo](https://lzc.app), [HCC] member, tech-savvy.
+- [ousfifty](https://blog.ous50.moe).
 - [Peter Pan Chi-Fei](https://panzhifei.fun), genuine maker.
 - [Zhanming Tian](https://hixiaotian.com), [HCC] member, top student.
 - [Zhenghao Wu](https://ecwuuuuu.com), [HCC] member, one of my best friends, deep learning expert.
