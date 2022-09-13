@@ -28,6 +28,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [Zhenghao Wu](https://ecwuuuuu.com), [HCC] member, one of my best friends, deep learning expert.
 - [Daming Yang](https://bigcat.ee), [AOSC] member, talented computer scientist, BA in Japanese.
 - [Shunyu (David) Yao](https://davidyao1518.github.io), our respected schoolmate in UIC.
+- [Yuyun](https://lelinus.cn).
 - [Junru Zhong](https://junru.dev), [HCC] member, computer science and transportation enthusiast.
 
 In August 2020, I got a chance to become a certified member of the [Chaihuo Maker Space](https://www.chaihuo.org/), where passionate makers gather. I don't think I'm an _authentic_ maker; I'm interested in playing with hardware, but I didn't invest a lot of time in it. Some _true_ makers I came across in the certified members' chat group also set up their websites to show their results and products. Here are some of them:

@@ -7,10 +7,10 @@ title: About
 
 I am...
 
-- A software engineer at [National Oceanography Centre (UK)][noc].
-- A community member of [Anthon Open Source Community][aosc].
-- A HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
-- An alumnus of [University of Southampton][uos] and [BNU–HKBU UIC][uic].
+- a software engineer at [National Oceanography Centre (UK)][noc].
+- a community member of [Anthon Open Source Community][aosc].
+- a HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
+- an alumnus of [University of Southampton][uos] and [BNU–HKBU UIC][uic].
 
 I can be reached via:
 
@@ -21,7 +21,7 @@ I can be reached via:
 - Post:
 
       Junde Yhi
-      105216
+      Unit 105216
       PO Box 7169
       POOLE
       BH15 9EL
