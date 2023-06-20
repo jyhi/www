@@ -7,7 +7,7 @@ title: About
 
 I am...
 
-- a software engineer at [National Oceanography Centre (UK)][noc].
+- a software engineer at [National Oceanography Centre, UK][noc].
 - a community member of [Anthon Open Source Community][aosc].
 - a HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
 - an alumnus of [University of Southampton][uos] and [BNU–HKBU UIC][uic].
@@ -15,8 +15,8 @@ I am...
 I can be reached via:
 
 - Email: junde \[at\] yhi \[dot\] moe
-- Telegram: [@lmy441900](https://t.me/lmy441900)
-- Discord: Junde Yhi\#7860
+- Telegram: [@jyhi0](https://t.me/jyhi0)
+- Discord: junde.yhi
 - IRC: yhi@irc.libera.chat (usually offline, please use MemoServ)
 - Post:
 
@@ -29,15 +29,13 @@ I can be reached via:
 
 I can also be found on...
 
-- GitHub: [@lmy441900](https://github.com/lmy441900)
+- GitHub: [@jyhi](https://github.com/jyhi)
 - Twitter: [@lmy441900](https://twitter.com/lmy441900)
 - Mastodon: [@lmy441900@sn.angry.im](https://sn.angry.im/@lmy441900)
 - YouTube: [Junde Yhi](https://www.youtube.com/channel/UCLfPUs9whRpb70I6Z1swXag)
 - Twitch: [JundeYhi](https://www.twitch.tv/jundeyhi)
 - Bilibili: <span lang="cmn-Hans">[以俊德](https://space.bilibili.com/50639488)</span>
 - osu!: [yhi](https://osu.ppy.sh/users/16462774)
-- Arcaea: 873 012 337
-- Genshin Impact: 116046150
 
 [noc]: https://noc.ac.uk/
 [aosc]: https://aosc.io/
@@ -78,7 +76,7 @@ No analytical script (e.g. Google Analytics) is deployed on the site, nor there 
 
 [cc-by-sa-4]: https://creativecommons.org/licenses/by-sa/4.0/
 [jekyll]: https://jekyllrb.com/
-[minima-self]: https://github.com/lmy441900/minima/tree/self-use
+[minima-self]: https://github.com/jyhi/minima/tree/self-use
 [cf-pages]: https://pages.cloudflare.com/
 [gsc]: https://search.google.com/search-console/about
 
@@ -90,4 +88,4 @@ No analytical script (e.g. Google Analytics) is deployed on the site, nor there 
 
 This site is built at {{ site.time }} against commit [{{ site.git.last_commit.short_sha }}][src] (_{{ site.git.last_commit.message | newline_to_br | split: '<br />' | first }}_).
 
-[src]: https://github.com/lmy441900/www/commit/{{ site.git.last_commit.long_sha }}
+[src]: https://github.com/jyhi/www/commit/{{ site.git.last_commit.long_sha }}
