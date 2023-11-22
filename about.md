@@ -15,7 +15,7 @@ I am...
 I can be reached via:
 
 - Email: junde \[at\] yhi \[dot\] moe
-- Telegram: [@jyhi0](https://t.me/jyhi0)
+- Telegram: [@jundeyhi](https://t.me/jundeyhi)
 - Discord: junde.yhi
 - IRC: yhi@irc.libera.chat (usually offline, please use MemoServ)
 - Post:
@@ -30,11 +30,10 @@ I can be reached via:
 I can also be found on...
 
 - GitHub: [@jyhi](https://github.com/jyhi)
-- Twitter: [@lmy441900](https://twitter.com/lmy441900)
+- X (formerly Twitter): [@lmy441900](https://twitter.com/lmy441900)
 - Mastodon: [@lmy441900@sn.angry.im](https://sn.angry.im/@lmy441900)
 - YouTube: [Junde Yhi](https://www.youtube.com/channel/UCLfPUs9whRpb70I6Z1swXag)
 - Twitch: [JundeYhi](https://www.twitch.tv/jundeyhi)
-- Bilibili: <span lang="cmn-Hans">[以俊德](https://space.bilibili.com/50639488)</span>
 - osu!: [yhi](https://osu.ppy.sh/users/16462774)
 
 [noc]: https://noc.ac.uk/
@@ -56,7 +55,7 @@ I can also be found on...
   - I sadly forgot the fact that this key was in the PGP Web of Trust Strong Set...
 
 [pgp-org]: https://keys.openpgp.org/vks/v1/by-fingerprint/D3B190D66FF1DD509F83D71A385F41A91FE082D1
-[pgp-moe]: https://purl.yhi.moe/pgp/d3b190d66ff1dd509f83d71a385f41a91fe082d1/jyhi.asc
+[pgp-moe]: https://purl.yhi.moe/pgp/jyhi.asc
 
 ## About This Site {#this-site}
 
