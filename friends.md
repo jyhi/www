@@ -20,7 +20,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [KirinBaka](https://9baka.moe), [HCC] member.
 - [Konnyaku](https://hee.ink).
 - [KooriMoe](https://icm.moe).
-- [Terence Lau](https://www.deluxelau.com), [HCC] member, statistics expert.
+- [Terence Lau](https://blog.cklau.cc), [HCC] member, statistics expert.
 - [RainySummer Luo](https://lzc.app), [HCC] member, tech-savvy.
 - [ousfifty](https://blog.ous50.moe).
 - [Peter Pan Chi-Fei](https://panzhifei.fun), genuine maker.
