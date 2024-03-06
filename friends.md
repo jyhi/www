@@ -13,10 +13,11 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [FiveYellowMice](https://fiveyellowmice.com).
 - [Megumi Fox](https://blog.megumifox.com), cute little fox. [(?)](https://blog.megumifox.com/public/about)
 - [Siubeng Fung](https://feng.moe), Android FOSS developer.
-- [Hmsy](https://aquarium39.moe), [HCC] member, [Miku](https://en.wikipedia.org/wiki/Hatsune_Miku) fan.
-- [huige233](https://huige233.github.io/vuepress-theme/), outstanding [Olympiad in Informatics](https://ioinformatics.org/) player.
+- [Hmsy](https://aquarium39.moe), [HCC] member, [Miku] fans.
+- [huige233](https://huige233.github.io/vuepress-theme/), outstanding [Olympiad in Informatics] player.
 - [icecat](https://blog.morz.org), computer network engineer.
 - [Inoki](https://www.inoki.cc), brilliant embedded and FOSS developer.
+- [Isoheptane](https://blog.cascade.moe), motivated catgirl-engineer.
 - [KirinBaka](https://9baka.moe), [HCC] member.
 - [Konnyaku](https://hee.ink).
 - [KooriMoe](https://icm.moe).
@@ -24,6 +25,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [RainySummer Luo](https://lzc.app), [HCC] member, tech-savvy.
 - [ousfifty](https://blog.ous50.moe).
 - [Peter Pan Chi-Fei](https://panzhifei.fun), genuine maker.
+- [Hao Tian](https://www.haotian22.top), [OpenStreetMap] contributor.
 - [Zhanming Tian](https://hixiaotian.com), [HCC] member, top student.
 - [Zhenghao Wu](https://ecwuuuuu.com), [HCC] member, one of my best friends, deep learning expert.
 - [Daming Yang](https://bigcat.ee), [AOSC] member, talented computer scientist, BA in Japanese.
@@ -45,3 +47,6 @@ This site is also included in [TUNA Blogroll](https://github.com/tuna/blogroll#l
 
 [AOSC]: https://aosc.io/
 [HCC]: https://uichcc.com/
+[Miku]: https://en.wikipedia.org/wiki/Hatsune_Miku
+[Olympiad in Informatics]: https://ioinformatics.org
+[OpenStreetMap]: https://www.openstreetmap.org/about
