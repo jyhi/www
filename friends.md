@@ -13,6 +13,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [FiveYellowMice](https://fiveyellowmice.com).
 - [Megumi Fox](https://blog.megumifox.com), cute little fox. [(?)](https://blog.megumifox.com/public/about)
 - [Siubeng Fung](https://feng.moe), Android FOSS developer.
+- [Harker](https://www.harkerbest.cn).
 - [Hmsy](https://aquarium39.moe), [HCC] member, [Miku] fans.
 - [huige233](https://huige233.github.io/vuepress-theme/), outstanding [Olympiad in Informatics] player.
 - [icecat](https://blog.morz.org), computer network engineer.
