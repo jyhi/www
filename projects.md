@@ -12,6 +12,24 @@ This is a page showcasing projects I have worked on, is working on, or plan to w
 
 These are my recently progressing projects; new features are added from time to time.
 
+### PeaZip Simplified Chinese Localization
+
+- Repository: <https://github.com/jyhi/PeaZip-l10n-zh-Hans>
+
+This project translates the language files in PeaZip to Simplified Chinese (zh-Hans). A few collaborators have contributed to this project too, so this is not maintained solely by me.
+
+~~Unfortunately, the author and maintainer of PeaZip, [Giorgio Tani][gtani], doesn't want to host the source code on Github. As a result,~~ collaboration is done by sending an email to them each time the translation is updated. Every tag I add in the repository is the version I've sent to them. The file is then uploaded again to the corresponding [Peazip-Translations Release][pztrel].
+
+I still keep this workflow and do not create pull requests to [the repository][pzrepo] -- this is because we have been working on this separate repository for a long time. A full clone of PeaZip is unnecessary, not mentioning that Giorgio is not following standard Git workflow yet (he simply uploads all code before each release).
+
+[gtani]: https://github.com/peazip
+[pztrel]: https://github.com/peazip/PeaZip-Translations/releases
+[pzrepo]: https://github.com/peazip/PeaZip
+
+## Under Maintenance
+
+These are projects that have "finished" and have entered a "stable" state. The progress of these projects may look inactive, but I'm still accepting new issues (bug reports) and pull requests.
+
 ### This Site
 
 [Jekyll][jekyll] is used to statically generate this whole website from [Markdown][markdown]. Despite the fact that this site just uses the Jekyll's default [Minima][minima] theme, a few tweaks are made:
@@ -19,21 +37,6 @@ These are my recently progressing projects; new features are added from time to 
 - [Kramdown][kramdown] has a few powerful markups allowing more control of HTML from Markdown
 - I [changed][minima-rdfa] [Microdata][microdata] in [Minima][minima] to [RDFa][rdfa]
 - I rebased and merged a few pending pull requests to jekyll/minima
-
-Both [Microdata][microdata] and [RDFa][rdfa] are [Linked Data][ld] markups. The former is defined in the [HTML Living Standard][html-std], while the latter is defined by [W3C][w3c] and is used in all other non-HTML scenarios.
-
-Informational websites (like this site) should be made with plain HTML documents, rather than Web Apps (e.g. [Vue.js][vue], [React.js][react] powered websites). If a Web App is purely informational (i.e. no interactions are required from the user), it's fucked up.
-
-(I'm not saying that using Vue.js or React.js is bad -- they are both excellent frameworks writing Web Apps. In fact, I have a few planned projects that embrace Vue.js. However, when it comes to information, the use of an App just advocates [information silos][info-silo] and sets up fences around.)
-
-While people can read the documents, machines can too. If a website relies on JavaScript to dynamically render information, then only people can view it. Thus, I deliberately avoided the use of JavaScript. In this way, these ones can benefit:
-
-- People using...
-  - the [NoScript][noscript] browser plugin;
-  - browsers without JavaScript functionality at all (e.g. [w3m][w3m]);
-- Crawers and robots (e.g. search engines).
-
-[Sir Tim Berners-Lee][timbl], who's the inventor of WWW, has a biography, [_Weaving the Web_][weaving-the-web], that explains the original design of the Web, which I think we haven't even achieved yet. There's also a documentary, [ForEveryone.net][foreveryone-net], in which Sir Tim, along with people working on and using the WWW, are interviewed. Some dialogues are taken from the biography. I've also [translated](#foreveryone-net) the subtitles into Simplified Chinese.
 
 [minima-rdfa]: https://github.com/jyhi/minima
 [jekyll]: https://jekyllrb.com/
@@ -43,63 +46,6 @@ While people can read the documents, machines can too. If a website relies on Ja
 [kramdown]: https://kramdown.gettalong.org/
 [microdata]: https://html.spec.whatwg.org/multipage/microdata.html#microdata
 [rdfa]: http://rdfa.info/
-[ld]: https://en.wikipedia.org/wiki/Linked_data
-[html-std]: https://html.spec.whatwg.org/multipage/
-[w3c]: https://www.w3.org/
-[vue]: https://v3.vuejs.org/
-[react]: https://reactjs.org/
-[info-silo]: https://en.wikipedia.org/wiki/Information_silo
-[noscript]: https://noscript.net/
-[w3m]: http://w3m.sourceforge.net/
-[timbl]: https://en.wikipedia.org/wiki/Tim_Berners-Lee
-[weaving-the-web]: https://www.w3.org/People/Berners-Lee/Weaving/Overview.html
-[foreveryone-net]: https://www.foreveryone.net/
-
-### PURL-Workers
-
-- Repository: <https://github.com/jyhi/purl-workers>
-
-PURL stands for [Persistent Uniform Resource Locator][purl-wp]. This is a serverless service: it runs on [Cloudflare Workers][cfwkrs]. It can be used as a URI ID service as well as a self-host [URL shortening][surl-wp] service.
-
-I build this project (service) mainly for my use. I assign IDs to things using `purl.yhi.moe`. Sometimes I use this to shorten URLs on my Apex domain (`yhi.moe`). As an interesting use case, `/` is registered to jump to `www.yhi.moe`.
-
-[purl-wp]: https://en.wikipedia.org/wiki/PURL
-[surl-wp]: https://en.wikipedia.org/wiki/URL_shortening
-[cfwkrs]: https://workers.cloudflare.com/
-
-### TinyWoT
-
-- Repository: <https://github.com/jyhi/tinywot>
-
-After some quick-and-dirty, ad-hoc implementations of [~~Mozilla~~ Web Thing API][webthing] for contests, I had the idea of creating a universal framework (or a library) that fits into both the model of W3C WoT and an extremely resource-constraint device (e.g. ATmega328p).
-
-I know Web stuff are naturally not designed for devices with only 2KiB of RAM, but what if we really have one, which can also run blazingly fast on larger devices. Meaningless, but cool.
-
-[webthing]: https://webthings.io/api/
-
-### PeaZip Simplified Chinese Localization
-
-- Repository: <https://github.com/jyhi/PeaZip-l10n-zh-Hans>
-
-This project translates the language files in PeaZip to Simplified Chinese (zh-Hans). A few collaborators have contributed to this project too, so this is not maintained solely by me.
-
-Unfortunately, the author and maintainer of PeaZip, [Giorgio Tani][gtani], doesn't want to host the source code on Github. As a result, collaboration is done by sending an email to them each time the translation is updated. Every tag I add in the repository is the version I've sent to them.
-
-[gtani]: https://github.com/peazip
-
-## Under Maintenance
-
-These are projects that have "finished" and have entered a "stable" state. The progress of these projects may look inactive, but I'm still accepting new issues (bug reports) and pull requests.
-
-### LibYAML Vala Binding
-
-- URL: <https://github.com/jyhi/yaml-vala/>
-  - also in: <https://gitlab.gnome.org/GNOME/vala-extra-vapis>
-
-This is the [Vala][vala] API (`.vapi`) definition for the use of [LibYAML][libyaml] in Vala. It's basically a transcription from the LibYAML C APIs to Vala style APIs.
-
-[vala]: https://wiki.gnome.org/Projects/Vala
-[libyaml]: https://pyyaml.org/wiki/LibYAML
 
 ### ForEveryone.net Simplified Chinese Subtitles {#foreveryone-net}
 
@@ -114,6 +60,16 @@ There're possible improvements though. The timeline was taken from another user 
 [gloomy-ghost]: https://github.com/gloomy-ghost
 [foreveryone-net-bili]: https://www.bilibili.com/video/BV1qx411o7qs
 [foreveryone-net-ytb-sub]: https://youtu.be/4pjG1UfgWD8
+
+### LibYAML Vala Binding
+
+- URL: <https://github.com/jyhi/yaml-vala/>
+  - also in: <https://gitlab.gnome.org/GNOME/vala-extra-vapis>
+
+This is the [Vala][vala] API (`.vapi`) definition for the use of [LibYAML][libyaml] in Vala. It's basically a transcription from the LibYAML C APIs to Vala style APIs.
+
+[vala]: https://wiki.gnome.org/Projects/Vala
+[libyaml]: https://pyyaml.org/wiki/LibYAML
 
 ## Planned (Stalled) {#planned}
 
@@ -142,6 +98,30 @@ This should have a straightforward UI and good UX. I may want to use Flutter.
 ## Discontinued
 
 These are projects that are abandoned. I'm not planning to improve them, but if someone is still interested in the ideas of them, I'll be very happy.
+
+### PURL-Workers
+
+- Repository: <https://github.com/jyhi/purl-workers>
+
+PURL stands for [Persistent Uniform Resource Locator][purl-wp]. This is a serverless service: it runs on [Cloudflare Workers][cfwkrs]. It can be used as a URI ID service as well as a self-host [URL shortening][surl-wp] service.
+
+I build this project (service) mainly for my use. I assign IDs to things using `purl.yhi.moe`. Sometimes I use this to shorten URLs on my Apex domain (`yhi.moe`). As an interesting use case, `/` is registered to jump to `www.yhi.moe`.
+
+Since the project was first developed, Cloudflare Workers has been growing into a feature-rich platform with all the flexibilities, making this setup unnecessary. You should write some code by yourself on the dashboard, which is very easy.
+
+[purl-wp]: https://en.wikipedia.org/wiki/PURL
+[surl-wp]: https://en.wikipedia.org/wiki/URL_shortening
+[cfwkrs]: https://workers.cloudflare.com/
+
+### TinyWoT
+
+- Repository: <https://github.com/jyhi/tinywot>
+
+After some quick-and-dirty, ad-hoc implementations of [~~Mozilla~~ Web Thing API][webthing] for contests, I had the idea of creating a universal framework (or a library) that fits into both the model of W3C WoT and an extremely resource-constraint device (e.g. ATmega328p).
+
+I know Web stuff are naturally not designed for devices with only 2KiB of RAM, but what if we really have one, which can also run blazingly fast on larger devices. Meaningless, but cool.
+
+[webthing]: https://webthings.io/api/
 
 ### Can
 
