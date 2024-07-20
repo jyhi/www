@@ -26,6 +26,7 @@ It's a pity that nowadays people no longer write high-quality blog posts, but in
 - [RainySummer Luo](https://lzc.app), [HCC] member, tech-savvy.
 - [ousfifty](https://blog.ous50.moe).
 - [Peter Pan Chi-Fei](https://panzhifei.fun), genuine maker.
+- [Sinofine](https://sinofine.me).
 - [Hao Tian](https://www.haotian22.top), [OpenStreetMap] contributor.
 - [Zhanming Tian](https://hixiaotian.com), [HCC] member, top student.
 - [Zhenghao Wu](https://ecwuuuuu.com), [HCC] member, one of my best friends, deep learning expert.
