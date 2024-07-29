@@ -5,14 +5,14 @@ list_title: All Posts
 permalink: blog/index.html
 ---
 
-Blog posts are categorised in the following classes:
+Blog posts are classified in the following categories:
 
-- blog: Original blog articles.
+- blog: original blog posts.
 
 Under the above categories, language tags are appended:
 
-- en: Blog posts in English.
-- cn: Blog posts in (Simplified) Chinese.
+- en: blog posts in English.
+- cn: blog posts in Chinese (Simplified).
 
 There is currently no category-specific list.
 
