@@ -5,12 +5,12 @@ title: About
 
 ## About Me {#me}
 
-I am...
+I am a...
 
-- a software engineer at [National Oceanography Centre, UK][noc].
-- a community member of [Anthon Open Source Community][aosc].
-- a HAM (amateur radio operator), class A (foundation), callsign BI7PXN.
-- an alumnus of [University of Southampton][uos] and [BNU–HKBU UIC][uic].
+- software engineer at [National Oceanography Centre, UK][noc].
+- past contributor of [Anthon Open Source Community][aosc].
+- HAM (amateur radio operator), class A (foundation), call sign BI7PXN.
+- graduate of [University of Southampton][uos] and [BNU–HKBU UIC][uic].
 
 I can be reached via:
 
@@ -30,8 +30,8 @@ I can be reached via:
 I can also be found on...
 
 - GitHub: [@jyhi](https://github.com/jyhi)
-- X (formerly Twitter): [@lmy441900](https://twitter.com/lmy441900)
-- Mastodon: [@lmy441900@sn.angry.im](https://sn.angry.im/@lmy441900)
+- X (formerly Twitter): [@lmy441900](https://x.com/lmy441900)
+- Mastodon: [@jyhi@comfy.social](https://comfy.social/@jyhi)
 - YouTube: [Junde Yhi](https://www.youtube.com/channel/UCLfPUs9whRpb70I6Z1swXag)
 - Twitch: [JundeYhi](https://www.twitch.tv/jundeyhi)
 - osu!: [yhi](https://osu.ppy.sh/users/16462774)
