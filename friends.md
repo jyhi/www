@@ -31,15 +31,18 @@ Not many people today set up their own websites and write blog posts. Shorter an
 - [Konnyaku](https://hee.ink).
 - [KooriMoe](https://icm.moe).
 - [Terence Lau](https://blog.cklau.cc), [HCC] member, statistics expert.
+- [LinXian](https://chrdsite.rinchord.studio).
 - [Bo Liu](https://blogs.oopswow.com).
 - [RainySummer Luo](https://lzc.app), [HCC] member, tech-savvy.
 - [ousfifty](https://blog.ous50.moe).
 - [Peter Pan Chi-Fei](https://panzhifei.fun), genuine maker.
+- [Rin](https://blog.rin.moe).
 - [Seiuneko](https://blog.seiuneko.moe).
 - [Sinofine](https://sinofine.me).
 - [Anthony Summit](https://csmoe.top).
 - [Hao Tian](https://www.haotian22.top), [OpenStreetMap] contributor.
 - [Zhanming Tian](https://hixiaotian.com), [HCC] member, top student.
+- [Steven Wu](https://blog.steven53.top), embedded software engineer.
 - [Zhenghao Wu](https://ecwuuuuu.com), [HCC] member, one of my best friends, deep learning expert.
 - [Daming Yang](https://bigcat.ee), [AOSC] member, talented computer scientist, BA in Japanese.
 - [Jiachen Yang (farseerfc)](https://farseerfc.me).
@@ -47,6 +50,7 @@ Not many people today set up their own websites and write blog posts. Shorter an
 - [Shunyu (David) Yao](https://davidyao1518.github.io), our respected schoolmate in UIC.
 - [Yuyun](https://lelinus.cn).
 - [Junru Zhong](https://junru.dev), [HCC] member, computer science and transportation enthusiast.
+- [zlicdt](https://blog.zlicdt.top).
 
 This site is also included in [TUNA Blogroll], blogs in which are also full of great minds and are worth reading!
 
