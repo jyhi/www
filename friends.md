@@ -13,6 +13,7 @@ Not many people today set up their own websites and write blog posts. Shorter an
 - [Peter Cai](https://en.typeblog.net), Android FOSS developer.
 - [Tianhao Chai](https://cth451.me), [AOSC] member, mathematician and photographer.
 - [Meng Cheng (dreamc)](https://www.dreamcstudio.cn).
+- [chihuo2104](https://blog.chihuo2104.dev), a.k.a. _Wei Ba Huo Huo_.
 - [Renjie Deng](https://www.drjchn.com), [HCC] member, one of my best friends as well as the best software developers.
 - [FiveYellowMice](https://fiveyellowmice.com).
 - [Megumi Fox](https://blog.megumifox.com), cute little fox[^1].
