@@ -177,7 +177,8 @@ For ordered lists, continue to use numbers followed by periods (".").
 
 If a list contains several long items, then when wrapped (either automatically
 or manually) they don't look separate enough. A gap of one blank line should
-be added between long list items. Each of them can start with a sub-heading to create a feeling of separate sections.
+be added between long list items. Each of them can start with a sub-heading to
+create a feeling of separate sections.
 
 That said, long list items should be avoided in the first place. It can be
 rewritten as a list containing short abstracts followed by paragraphs
