@@ -14,6 +14,7 @@ Not many people today set up their own websites and write blog posts. Shorter an
 - [Tianhao Chai](https://cth451.me), [AOSC] member, mathematician and photographer.
 - [Meng Cheng (dreamc)](https://www.dreamcstudio.cn).
 - [chihuo2104](https://blog.chihuo2104.dev), a.k.a. _Wei Ba Huo Huo_.
+- [Clansty](https://nyac.at).
 - [clorami](https://www.clorami.cc).
 - [Renjie Deng](https://www.drjchn.com), [HCC] member, one of my best friends as well as the best software developers.
 - [FiveYellowMice](https://fiveyellowmice.com).
